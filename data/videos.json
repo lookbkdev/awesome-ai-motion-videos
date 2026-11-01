@@ -2790,5 +2790,54 @@
     "text": "Google just dropped Gemini 4 Argon , GDM’s most capable model yet.  thanks to the GDM team for giving me early access.\n\nHere are few things I tested with Gemini 4 Argon over the last few days \n\nI asked it to build a small island with a hut and a sailboat you can actually control and drive. The physics, water, and little details are amazing. Took a few prompts to get here, but I love the result.\n\n1/4",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110039142621233152/img/KwVzyGa2drZKOpWN.jpg",
     "duration": 98.8
+  },
+  {
+    "id": "2115749939632370149",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2115749939632370149",
+    "date": "2026-10-29",
+    "title": "GPT Sol 6.1 vs DeepSeek V4.1 Flash in Blender via MCP",
+    "titleZh": "GPT Sol 6.1 对比 DeepSeek V4.1 Flash：Blender MCP 3D 生成",
+    "category": "comparison",
+    "models": [
+      "GPT Sol 6.1",
+      "DeepSeek V4.1 Flash"
+    ],
+    "text": "Chinese LLMs are not even close to US models in 3D\n\nGPT Sol 6.1 completely mogged the latest DeepSeek V4.1 Flash 1017 Max via Blender MCP:\n\noutput: SOL > DeepSeek\nspeed: SOL > DeepSeek\ncost: SOL = DeepSeek\n\nfactoring in 1% of weekly quota on a $25 sub, the SOL output cost me literally $0.06\n\nblender is the a new checkpoint for LLMs",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115749890487631872/img/yBiBIYiDzjXt9JVJ.jpg",
+    "duration": 16.7
+  },
+  {
+    "id": "2110040948638126557",
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava",
+    "url": "https://x.com/ai_for_success/status/2110040948638126557",
+    "date": "2026-10-13",
+    "title": "Gemini 4 Argon builds a Blender + Three.js Rubik's cube-solving robot",
+    "titleZh": "Gemini 4 Argon 用 Blender 与 Three.js 做的魔方机器人",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Argon"
+    ],
+    "text": "4/4\n\nGemini 4 Argon in Antigravity built the entire project, from modeling the robot arms in Blender to the 3D simulation in Three.js. Gemini then used the Interactions API to solve the cube.\n\nZero hints. It only gets the raw 54-sticker state, with no scramble history, depth hints, or external solver. It has just 16 tool calls to test moves and figure out the solution itself.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110040829960265728/img/BgXwvH7SkLEejNde.jpg",
+    "duration": 41.2
+  },
+  {
+    "id": "2103008022369099992",
+    "handle": "chetanankola",
+    "name": "Chetan Ankola",
+    "url": "https://x.com/chetanankola/status/2103008022369099992",
+    "date": "2026-09-24",
+    "title": "Creative Three.js experience built with Opus 5.5",
+    "titleZh": "Opus 5.5 做的创意 Three.js 体验",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "here is another version of the Three.js + Claude Opus 5.5 cooked experience..\n\nInsaaane how creative Opus 5 can get!!",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg",
+    "duration": 27.8
   }
 ]
