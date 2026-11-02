@@ -2839,5 +2839,144 @@
     "text": "here is another version of the Three.js + Claude Opus 5.5 cooked experience..\n\nInsaaane how creative Opus 5 can get!!",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg",
     "duration": 27.8
+  },
+  {
+    "id": "2116839260665885112",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2116839260665885112",
+    "date": "2026-11-01",
+    "title": "GPT-6.1 Sol vs Sonnet 5.5: hooked machete modeled in Blender via MCP",
+    "titleZh": "GPT-6.1 Sol 对比 Sonnet 5.5：用 Blender MCP 建模钩形砍刀",
+    "category": "comparison",
+    "models": [
+      "GPT-6.1 Sol",
+      "Sonnet 5.5"
+    ],
+    "text": "You might disagree, but SOL and Sonnet are enough for basic 3D\n\nasked both to cook a mesh via Blender MCP = both passed for pennies\n\nthe rule is simple:\n\n1. Basic props = GPT SOL 6.1 or Sonnet 5.5\n2. Detailed meshes, animations = pure Opus 5.5\n3. Best quality for time = run Tripo",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116839207188500480/img/701nRXz30EUZlBC0.jpg",
+    "duration": 26.2,
+    "prompt": "Using Blender through Blender MCP, make a game-ready 3D model of the hooked machete in the attached image. Work directly in Blender: build, look at the result, compare it with the reference and fix it. Match the reference as closely as you can: shape, proportions, materials and colours.\n\nWhat it is: a large hooked jungle machete, held in one hand by the player in first person, so it is seen up close.\n\nDetails to keep:\n- Long curved blade that widens towards the front and ends in a big forward hook, like a beak. The cutting edge runs along the inner curve.\n- Rusty, scratched dark steel with a bright hand-sharpened edge, chips and a few jagged notches near the hook.\n- Engraved tribal band along the back of the blade, the crossed-blades mark and the scratched tally marks near the guard.\n- Round flat steel guard.\n- Handle wrapped in dark leather with several raised rings.\n- Curved steel hook-shaped pommel at the end of the handle.\n- A dark leather lanyard through the pommel with a shark tooth.",
+    "promptUrl": "https://x.com/maxt3chno/status/2116839669765648415"
+  },
+  {
+    "id": "2116600392301592826",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2116600392301592826",
+    "date": "2026-10-31",
+    "title": "Viking ship scene with model-built water and sky, assembled by Opus 5.5",
+    "titleZh": "Opus 5.5 组装的维京船场景，水面与天空由模型编写",
+    "category": "3d",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra",
+      "GPT-6.1 Sol"
+    ],
+    "text": "Is this the last month we need multiple models to cook a 3D scene??\n\n3 basic subs I used for this entire Viking ship scene:\n\n- Opus 5.5 + Astra for water and sky\n- Tripo + SOL 6.1 to build and texture the ship\n- Opus 5.5 to combine it all\n\nwho one-shots this whole scene first: Fable 5.5 or GPT Bel?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116600287896940544/img/GhwZI35TmbmBukcB.jpg",
+    "duration": 25.5
+  },
+  {
+    "id": "2116209421848064265",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2116209421848064265",
+    "date": "2026-10-30",
+    "title": "Game character rebuilt in Blender from three reference views",
+    "titleZh": "按三视图在 Blender 中重建的游戏角色",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "game character with claude opus 5.5 + blender..\n\nbuilt piece by piece from 3 reference views\n\nhere’s the workflow:\n\n- step 1: connect opus 5.5 to blender through blender mcp and send 3 reference views (front, close-up, side)\n- step 2: one prompt: “reconstruct this character in 3d. preserve the swept hair and side braid, red cape, ivory tunic and dark boots”\n- step 3: blockout first: boots, legs and overall proportions\n- step 4: body: short tunic, puffed trousers, high boots, relaxed arms\n- step 5: face, swept hair and the braid over the shoulder\n- step 6: details: the cape as one curved surface, then collar, sash, clasp and boot trim\n- step 7: materials in order: dark cloth, leather, ivory tunic, brown hair, scarlet cape\n- step 8: inspect the mesh for seams and overlaps, then compare front and side views with the reference\n\nget the silhouette right before any detail\n\ni like to keep the concept art pinned next to the viewport the whole time",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116209240289271808/img/qTzRWmiQ8KOjxYB9.jpg",
+    "duration": 28,
+    "prompt": "reconstruct this character in 3d. preserve the swept hair and side braid, red cape, ivory tunic and dark boots",
+    "promptUrl": "https://x.com/rewind02/status/2116209421848064265"
+  },
+  {
+    "id": "2114316443261002226",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2114316443261002226",
+    "date": "2026-10-25",
+    "title": "Office interior rebuilt in 3ds Max by Opus 5.5 via MCP",
+    "titleZh": "Opus 5.5 通过 MCP 在 3ds Max 中重建的办公室场景",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "full office in 3ds max with claude opus 5.5...\n\nclaude drives 3ds max directly through mcp\n\nthe trick is building in stages and checking each against the reference. here’s the workflow:\n\n- step 1: install max ultra mcp (free): drag the installer into the 3ds max viewport\n- step 2: in max ultra’s ai client setup, click claude code to connect it, then run the test prompt\n- step 3: prompt: “rebuild this office in 3ds max. use the reference images, preserve the layout, clutter and daylight”\n- step 4: room shell first: walls, windows, blinds\n- step 5: furniture next, then opus captures the viewport and checks the layout against the reference\n- step 6: shelves and paper stacks, then close-up detail on the chair and desk\n- step 7: assign materials, then match the daylight direction from the window\n- step 8: capture a clean viewport and compare it side by side with the reference\n\nwho does what:\n\n- max ultra mcp: the bridge between claude and 3ds max\n- opus 5.5: modeling, layout checks, materials, light\n- 3ds max: the scene and the render\n\nname your renderer in the prompt (v-ray or corona)\n\notherwise opus defaults to autodesk physical materials and you redo them all",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114316387967553536/img/6vQNqgfqA4KiPaBf.jpg",
+    "duration": 40,
+    "prompt": "rebuild this office in 3ds max. use the reference images, preserve the layout, clutter and daylight",
+    "promptUrl": "https://x.com/rewind02/status/2114316443261002226"
+  },
+  {
+    "id": "2113573386794254715",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2113573386794254715",
+    "date": "2026-10-23",
+    "title": "Procedural Godot level generated from one concept art image",
+    "titleZh": "从一张概念图生成的程序化 Godot 关卡",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "one concept art image into a real 3d level with claude opus 5.5 + godot...\n\nopus “churned for 33m 5s”\n\nthe trick is scoring the render against the reference instead of eyeballing it, smart way to set it up:\n\n- step 1: pick one reference image as the target look\n- step 2: have opus generate the level in code from a seed (rust + godot 4.7)\n- step 3: build everything from small pieces: single stones, mixed flagstones, single planks, chains\n- step 4: skip textures: stone, wood, brass, cloth and flame are all procedural shaders\n- step 5: have opus write a script that compares the render with the reference (color, light, contrast, detail) and gives a 0-100 score\n- step 6: fix the scene first: lighting, haze, layout\n- step 7: auto-fit a color grade (lut) to the reference as the final step\n- step 8: loop: render > score > side-by-side > change one thing\n\ni like this way more than image gen > 3d model > cleanup\n\none generator instead of 100 assets, and no generation credits burned",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113573309031776256/img/zTCHDQ92FKhA-zSl.jpg",
+    "duration": 38.2
+  },
+  {
+    "id": "2116423724379656329",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2116423724379656329",
+    "date": "2026-10-31",
+    "title": "Animated JavaScript diagram of the life of an animal cell",
+    "titleZh": "用 JavaScript 绘制的动物细胞一生动画图解",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "A diagram drawn in JavaScript using @poteto's /statechart skill. The life of one animal cell\n\nOpen source. Made with Claude Opus 5.5",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116422726374264832/img/0Wip71uph6uYodzp.jpg",
+    "duration": 44.5
+  },
+  {
+    "id": "2116580650174345279",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2116580650174345279",
+    "date": "2026-10-31",
+    "title": "Qwen 4 (Kerria) vs GPT-6.1 Terra: 2D RPG village in one HTML file",
+    "titleZh": "Qwen 4（Kerria）对比 GPT-6.1 Terra：单文件 2D RPG 村庄",
+    "category": "comparison",
+    "models": [
+      "Qwen 4 (Kerria)",
+      "GPT-6.1 Terra"
+    ],
+    "text": "Qwen 4 (kerria) > GPT 6.1 Terra (max)\n\nsame prompt: create a 2D RPG village in a single HTML file \n\n- kerria tested on arena, ~10 min\n- terra ran on max in codex, ~3 min\n\nword is Qwen 4 is very likely to drop next week :) \n\ncan't wait to finally test it when it launches",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116580469235978241/img/CV6GRy03VsWP0tDc.jpg",
+    "duration": 34.6
+  },
+  {
+    "id": "2116148349791346698",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2116148349791346698",
+    "date": "2026-10-30",
+    "title": "Gemini 4 Carbon vs Opus 5.5: SVG PS5 controller",
+    "titleZh": "Gemini 4 Carbon 对比 Opus 5.5：SVG 绘制 PS5 手柄",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Opus 5.5"
+    ],
+    "text": "gemini 4 carbon vs opus 5.5 (SVG of a PS5 controller) \n\n> carbon’s output was from Arena tested a few days ago \n> ran opus 5.5 on xhigh reasoning in claude code\n\nthis was an older Carbon checkpoint too, so the released model could be more detailed.\n\nopus 5.5 has been hard to beat in many SVG tests but this one is a tough one to decide.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116148244681981952/img/xLVyvyZkK9kByxHk.jpg",
+    "duration": 22.5
   }
 ]
