@@ -223,5 +223,25 @@
     "id": "2116136800762949774",
     "handle": "socialwithaayan",
     "reason": "AI-generated footage with tool affiliate promo"
+  },
+  {
+    "id": "2117169796290916732",
+    "handle": "chetaslua",
+    "reason": "published HTML wraps an embedded MP4; code-only claim unverifiable"
+  },
+  {
+    "id": "2116918967558095131",
+    "handle": "Octoberry",
+    "reason": "doesn't say what was built or that it is code"
+  },
+  {
+    "id": "2117278100480262484",
+    "handle": "rewind02",
+    "reason": "hero character from image-to-3D tool; Tripo referral promo"
+  },
+  {
+    "id": "2117230590126592216",
+    "handle": "rewind02",
+    "reason": "real-world 360 camera capture, not model-made"
   }
 ]

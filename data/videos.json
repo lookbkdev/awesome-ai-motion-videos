@@ -2978,5 +2978,141 @@
     "text": "gemini 4 carbon vs opus 5.5 (SVG of a PS5 controller) \n\n> carbon’s output was from Arena tested a few days ago \n> ran opus 5.5 on xhigh reasoning in claude code\n\nthis was an older Carbon checkpoint too, so the released model could be more detailed.\n\nopus 5.5 has been hard to beat in many SVG tests but this one is a tough one to decide.",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116148244681981952/img/xLVyvyZkK9kByxHk.jpg",
     "duration": 22.5
+  },
+  {
+    "id": "2117224839010459987",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2117224839010459987",
+    "date": "2026-11-02",
+    "title": "Paper-bird fox short film rendered entirely from code",
+    "titleZh": "纯代码渲染的狐狸与纸鸟动画短片",
+    "category": "motion",
+    "models": [
+      "Fable 5.5"
+    ],
+    "text": "🚨 Fable 5.5 just made a 66 sec animated short film, with zero image models\n\nevery frame + every sound = python it wrote itself\nfox, paper birds, clouds, lettering, score, sfx, all of it\n\n> 1920×804 · 24fps · single html file\n> no gen images / no stock / no samples / no font files\n> ~2h40m of autonomous work\n\n< not ghibli level, and it told me so itself lol >",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117224259433242625/img/QYxtIO20PzrG8agu.jpg",
+    "duration": 58.5
+  },
+  {
+    "id": "2117289480608460897",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2117289480608460897",
+    "date": "2026-11-02",
+    "title": "Code-only remake of an animated short film, music included",
+    "titleZh": "纯代码重制的动画短片（含配乐）",
+    "category": "motion",
+    "models": [
+      "Opus 5.5",
+      "Fable 5.5"
+    ],
+    "text": "Claude Opus 5.5 (max) remade this animated short film made by Fable 5.5. \n\n- ran for 2hrs 15 mins in claude code and estimated cost $33 \n- no image or video model was used, every frame was made through code including the music. \n\nnow imagine how insane the next Opus model will be when it finally drops. we are so not ready \n\ndo you think GPT-6.2 Astra could pull off something like this off or a better version?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117289379668340736/img/d4E74072kPCuj_dB.jpg",
+    "duration": 57.9
+  },
+  {
+    "id": "2117325961578614798",
+    "handle": "xikhar",
+    "name": "Shikhar",
+    "url": "https://x.com/xikhar/status/2117325961578614798",
+    "date": "2026-11-02",
+    "title": "Comic-style 2D web-swing animation in WebGL and Canvas",
+    "titleZh": "WebGL + Canvas 漫画风 2D 荡蛛丝动画",
+    "category": "motion",
+    "models": [
+      "Opus 5.5",
+      "Fable 5.5"
+    ],
+    "text": "Is this Fable 5.5?\n\nSaw posts that Opus is routed to Fable 5.5, so I decided to make a complex 2D animation with it. \n\nThis is a single HTML file made using WebGL with GLSL shaders and 2D Canvas.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117325673039888384/img/ZNVm-Ua3wnl4w9Eg.jpg",
+    "duration": 30.2
+  },
+  {
+    "id": "2117225126496256326",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2117225126496256326",
+    "date": "2026-11-02",
+    "title": "Underground bunker scene built 100% in code",
+    "titleZh": "100% 代码搭建的地下掩体场景",
+    "category": "3d",
+    "models": [
+      "GPT-6.1 Sol",
+      "Opus 5.5"
+    ],
+    "text": "GPT SOL 6.1 cooked this entire 'bunker' 100% with code in 9 hours\n\nworkflow: Opus 5.5 orchestrates > SOL 6.1 executes\n\nzero 3D models used\n\nput SOL 6.1 and Opus 5.5 in a single $20 sub and I won't even care about Fable 5.5 or GPT Bel",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117224799021764608/img/vWQoYV2DV4NcAd2A.jpg",
+    "duration": 79.1
+  },
+  {
+    "id": "2116975056014430419",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2116975056014430419",
+    "date": "2026-11-01",
+    "title": "Photoreal sports car in three.js",
+    "titleZh": "three.js 写实跑车",
+    "category": "3d",
+    "models": [
+      "Fable 5.5"
+    ],
+    "text": "Fable 5.5 : @threejs car , this look so good\n\nwith all this testing, i think tuesday can be launch day as they added Mythos 5.5 to their website frontend code (Check my last post on my profile for context.)\n\nonly one demand left : 20% less price compared to previous gen 🥹",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116973609541574656/img/TArvw-46Rvqo_WUI.jpg",
+    "duration": 16.8
+  },
+  {
+    "id": "2116945827738665060",
+    "handle": "abhinavflac",
+    "name": "Synopsis",
+    "url": "https://x.com/abhinavflac/status/2116945827738665060",
+    "date": "2026-11-01",
+    "title": "Interactive 3D historical sailing ship on open water",
+    "titleZh": "可交互的 3D 古帆船海上场景",
+    "category": "3d",
+    "models": [
+      "Fable 5.5"
+    ],
+    "text": "Fable 5.5: an interactive 3D historical sailing ship ⛵\n\n> zero shot prompt and the level of realism in the scene it feel alive",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116945341656530944/img/94gRfD1Bh0H1JX3t.jpg",
+    "duration": 83.8
+  },
+  {
+    "id": "2117222592536789149",
+    "handle": "noclipepe",
+    "name": "noclipepe",
+    "url": "https://x.com/noclipepe/status/2117222592536789149",
+    "date": "2026-11-02",
+    "title": "Same prompt, 4 models: 3D open-world RPG",
+    "titleZh": "同一提示词四模型对比：3D 开放世界 RPG",
+    "category": "comparison",
+    "models": [
+      "Fable 5.5",
+      "GPT-6.2 Astra",
+      "Opus 5.5",
+      "Fable 5.1"
+    ],
+    "text": "FABLE 5.5 AND GPT-6.2 ASTRA ARE COMING FOR MOBA NOW😈\n\nOne prompt. 4 models. A full 3D open-world RPG.\n\n· Fable 5.5 (routing)\nGolden-hour light, long shadows, swaying grass, smooth combat. A fully finished game.\n\n· GPT-6.2 Astra (?)\nWent full Zelda: bright ruins, stone paths, a glowing golem boss.\n\n· Opus 5.5\nDark and detailed. Crystals, lanterns, working inventory, solid collisions.\n\n· Fable 5.1\nNice night lighting, but the hero gets stuck mid-fight.\n\nWaiting for the new models on http://aimlapi.com.\n\nMy rating at the end of the video.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117218725535318017/img/ApIocC6RjYCFOoXU.jpg",
+    "duration": 48.2
+  },
+  {
+    "id": "2115849659797373038",
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy",
+    "url": "https://x.com/AI_Screening/status/2115849659797373038",
+    "date": "2026-10-29",
+    "title": "Running giraffe three.js test across 3 models",
+    "titleZh": "三模型 three.js 奔跑长颈鹿对比",
+    "category": "comparison",
+    "models": [
+      "Fable 5.5",
+      "Opus 5.5",
+      "Gemini 4 Argon"
+    ],
+    "text": "Claude Fable 5.5 (routed) vs. Opus 5.5 vs. Gemini 4 Argon\n\n>Fable 5.5 clears Opus 5.5 on the Three.js test.\n>Anthropic, please drop this beast as soon as possible!",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115849523096637441/img/TCMeP5TM0cgp0hhY.jpg",
+    "duration": 15.1
   }
 ]
