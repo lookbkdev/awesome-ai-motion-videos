@@ -3114,5 +3114,70 @@
     "text": "Claude Fable 5.5 (routed) vs. Opus 5.5 vs. Gemini 4 Argon\n\n>Fable 5.5 clears Opus 5.5 on the Three.js test.\n>Anthropic, please drop this beast as soon as possible!",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115849523096637441/img/TCMeP5TM0cgp0hhY.jpg",
     "duration": 15.1
+  },
+  {
+    "id": "2117654352374702378",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2117654352374702378",
+    "date": "2026-11-03",
+    "title": "Needle-felt character brand film animated in Python and rendered in Blender",
+    "titleZh": "Python 驱动、Blender 渲染的羊毛毡角色品牌短片",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "I made this video for Pokeya - they make needle felting kits that bring joyful characters to life\n\nAnimated in Python and rendered in Blender by Claude Opus 5.5",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117653725225668608/img/AGU_7kh4sonjGzzy.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2117381015069212910",
+    "handle": "ChrisGPT",
+    "name": "Chris",
+    "url": "https://x.com/ChrisGPT/status/2117381015069212910",
+    "date": "2026-11-02",
+    "title": "Painterly animation clip with a self-written renderer and synthesized sound",
+    "titleZh": "自写渲染器的手绘风动画片段（含合成音效）",
+    "category": "motion",
+    "models": [
+      "Fable 5.5",
+      "Opus 5.6"
+    ],
+    "text": "First animation test with Fable 5.5 / Opus 5.6\n\nOne prompt, No GPU, No outside assets.\n\nFable 5.5 modeled this, painted every texture, wrote its own renderer, animated it on 2s, drew the effects and synthesized all the sound.\n\nIt can't even hear.\n\nFortiche is still safe… for now.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117380949671292928/img/rqCTh_0GR66cOsbO.jpg",
+    "duration": 9
+  },
+  {
+    "id": "2117753923003895995",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2117753923003895995",
+    "date": "2026-11-03",
+    "title": "Same game level built in Three.js and in Godot",
+    "titleZh": "同一个游戏关卡：Three.js 版对比 Godot 版",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "People hate on Three.js for serious projects, but is it really that bad?\n\nasked Opus 5.5 to build stage 1 of 50 for my new project on two platforms:\n\n- Left: 4% of weekly quota, 48 minutes\n- Right: 19% of weekly quota, 4+ hours\n\none is made in Three.js, the other cooked in Godot\n\nwhich one would you pick?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117753786504450048/img/Pgi2J2xemdLQt8dF.jpg",
+    "duration": 39.6
+  },
+  {
+    "id": "2117641898772799929",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2117641898772799929",
+    "date": "2026-11-03",
+    "title": "Textured boat built in Three.js code vs in Blender",
+    "titleZh": "Three.js 代码建模的船对比 Blender 版",
+    "category": "3d",
+    "models": [
+      "GPT-6.1 Sol"
+    ],
+    "text": "The trick that made this Three.js boat look 2x more real than the Blender one:\n\nasked GPT 6.1 SOL Extra High to cook 2 boats:\n\n- 1 in Blender \n- 1 in Three.js code \n\nsame ref, same price, yet the Three.js boat looks better\n\nthe unlock: geometry from code + AI-generated textures baked into PBR maps",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117641733911547904/img/ZM-AkDe1kawC5Wkw.jpg",
+    "duration": 18
   }
 ]

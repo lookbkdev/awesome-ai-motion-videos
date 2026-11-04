@@ -243,5 +243,50 @@
     "id": "2117230590126592216",
     "handle": "rewind02",
     "reason": "real-world 360 camera capture, not model-made"
+  },
+  {
+    "id": "2116972409727381994",
+    "handle": "kevin_t_ngo",
+    "reason": "still image, no video"
+  },
+  {
+    "id": "2117596659215417399",
+    "handle": "marcthecreatorr",
+    "reason": "static SVG image, no video"
+  },
+  {
+    "id": "2117324554024739035",
+    "handle": "maxt3chno",
+    "reason": "meshes from Tripo, animations from Mesh2Motion; not model-coded"
+  },
+  {
+    "id": "2117586491350135052",
+    "handle": "rewind02",
+    "reason": "repost of another developer's work (dev: One_Cheek_8843); props from Meshy"
+  },
+  {
+    "id": "2117627721844994413",
+    "handle": "rewind02",
+    "reason": "photo post promoting a prompt, no video"
+  },
+  {
+    "id": "2117664284440150056",
+    "handle": "rewind02",
+    "reason": "short kinetic-type test promoting a model release"
+  },
+  {
+    "id": "2116685449586790569",
+    "handle": "untitled_sys",
+    "reason": "no AI model named"
+  },
+  {
+    "id": "2117287037170778544",
+    "handle": "motion_so",
+    "reason": "tool ad with community note"
+  },
+  {
+    "id": "2117226039998906520",
+    "handle": "kimmonismus",
+    "reason": "repost of chetaslua's clip"
   }
 ]
