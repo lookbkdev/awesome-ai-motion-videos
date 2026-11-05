@@ -3179,5 +3179,57 @@
     "text": "The trick that made this Three.js boat look 2x more real than the Blender one:\n\nasked GPT 6.1 SOL Extra High to cook 2 boats:\n\n- 1 in Blender \n- 1 in Three.js code \n\nsame ref, same price, yet the Three.js boat looks better\n\nthe unlock: geometry from code + AI-generated textures baked into PBR maps",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117641733911547904/img/ZM-AkDe1kawC5Wkw.jpg",
     "duration": 18
+  },
+  {
+    "id": "2117935453152170378",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2117935453152170378",
+    "date": "2026-11-04",
+    "title": "Same prompt, 2 models: 3D medieval castle in one HTML file",
+    "titleZh": "同一提示词双模型对比：单文件 3D 中世纪城堡",
+    "category": "comparison",
+    "models": [
+      "Tencent HY4",
+      "GPT 6.1 Terra"
+    ],
+    "text": "Tencent HY4 (max) vs GPT 6.1 Terra (max)\n\nSame prompt: build a 3D medieval castle in a single HTML file \n\n- HY4: ~6 min, ~$0.03 (est.)\n- Terra: ~16 min, ~$0.44\n\nHY4 isn't in Sonnet 5.5 or DeepSeek Flash 1017 territory yet when it comes to 3D coding, but the model is super fast and cheap. \n\nit’s always good to see more competition on the other hand \n\nwhich one would you pick here?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117934995868209152/img/BWF_od3oUmcXL11U.jpg",
+    "duration": 42.7
+  },
+  {
+    "id": "2117949666448883731",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2117949666448883731",
+    "date": "2026-11-04",
+    "title": "Same prompt in Blender MCP: rigged Baba Yaga hut on bird legs",
+    "titleZh": "Blender MCP 同题对比：长着鸟腿的芭芭雅嘎小屋（带骨骼）",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra"
+    ],
+    "text": "OpenAI has to drop GPT Bel faster, because Astra is nowhere near Opus 5.5 in 3D\n\nsame 'Baba Yaga house' prompt\nsame image reference\n\nOpus is still rough, but Astra couldn't even attach the roof to the walls",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg",
+    "duration": 26.8,
+    "prompt": "Using Blender through Blender MCP, make a game-ready 3D model of the hut on giant bird legs in the attached image (a creepy Baba Yaga hut). Work directly in Blender: build, look at the result, compare it with the reference and fix it. Match the reference as closely as you can: shape, proportions, materials and colours. Ignore the blurred background of the image, model only the hut.\n\nWhat it is: a crooked, rotten wooden hut standing on two huge scaly bird legs, in a realistic tropical-island shooter game. The player sees it from the ground and walks around it. The legs must be able to move: walk, crouch, shift weight.\n\nDetails to keep:\nA small leaning tower at the front with a curved horn-like hook on top; a steep crooked roof of overlapping dark shingles whose edges hang low and end in sharp ragged points; a tall spiky back gable.\nRotten, crooked planks nailed over each other, iron straps and nails, broken boards sticking out like spikes.\nNarrow glowing orange window slits.\nAn arched door with a red painted sign and an iron ring, a crooked plank stair with rope railings hanging down from it.\nA brick chimney, moss and hanging moss strands, small mushrooms growing on the wall.\nRusty chains with rings, a bone cross on a rope, torn dark-red cloth strips hanging from the edges.\nTwo long scaly bird legs with big knee joints, four-toed feet and long dark curved claws.\nRequirements:\nReal-world scale: about 12 m tall in total when standing, the hut about 7 m long. Origin on the ground between the two feet. The door facing +Y.\nBuild it in a neutral standing pose: both feet on the ground, legs straight under the body. The step pose from the reference is made later with the rig.\nUp to 60,000 triangles in total. Scales, wood grain, nails and painted signs mostly in the textures and normal map. The spiky silhouette (shingle points, broken planks, claws, the hook on the tower) in the geometry.\nMoss strands and cloth strips as alpha-card planes.\nTextures up to 2048 px: base colour, normal, roughness, emissive for the window slits. Up to 4 materials (wood and roof, legs, cloth with chains and charms, windows).\nSkeleton: one armature \"hut_rig\" with:a root bone on the ground and a body bone; the whole hut moves rigidly with the body bone;\nfor each leg a chain: thigh, shin, ankle, foot, and one bone per toe;\nclean weights on the legs, so they bend without tearing.\n\nObjects:\"hut\": the house with roof, tower, stair and chimney, parented to the body bone;\n\"legs\": both legs, skinned to \"hut_rig\";\n\"charms\": chains, bone cross and cloth strips, so they can swing in the game;\n\"window_light_1\", \"window_light_2\"...: empties inside each glowing window slit (the game will add the lights);\n\"collision\": a simple low-poly shape for the legs and the hut body, under 500 triangles, hidden in renders.\n\nOutput:\nOne .glb file with all objects, the armature and textures embedded.\nThe .blend file.\nRenders on a plain background: a front view and a three-quarter view in the standing pose, plus one three-quarter view in the step pose from the reference (one leg lifted with claws forward), to show the rig works.",
+    "promptUrl": "https://x.com/maxt3chno/status/2117950126077391316"
+  },
+  {
+    "id": "2117284178521923949",
+    "handle": "hakmgpt",
+    "name": "Hakm",
+    "url": "https://x.com/hakmgpt/status/2117284178521923949",
+    "date": "2026-11-02",
+    "title": "Two-minute fly-through of a voxel world",
+    "titleZh": "两分钟体素世界漫游",
+    "category": "3d",
+    "models": [
+      "Fable 5.5"
+    ],
+    "text": "Voxel Creation By Fable 5.5",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117283351706980353/img/WurmCERY5WAilH_X.jpg",
+    "duration": 120
   }
 ]
