@@ -13,6 +13,6 @@ The MIT license covers this repository's own scripts, data structure and README 
 
 ## Corrections and removals
 
-Creators can ask for a credit fix or for their entry to be removed, no questions asked. [Open an issue](https://github.com/SHARPLEE00/awesome-ai-motion-videos/issues/new) with the post link and what you'd like changed, or reply to the maintainer on X. Removals are made within a few days.
+Creators can ask for a credit fix or for their entry to be removed, no questions asked. [Open an issue](https://github.com/lookbkdev/awesome-ai-motion-videos/issues/new) with the post link and what you'd like changed, or reply to the maintainer on X. Removals are made within a few days.
 
 This repository is maintained by Lookbk and links to lookbk.dev. Creators listed here have not endorsed Lookbk. Not affiliated with Anthropic, Moonshot AI, OpenAI or Google.

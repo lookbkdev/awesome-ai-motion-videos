@@ -416,7 +416,7 @@ AI 编程模型用代码做出来的动效、发布片、3D 世界和小游戏�
 
 ## 投稿
 
-看到或做了适合收录的作品？[提交一条](https://github.com/SHARPLEE00/awesome-ai-motion-videos/issues/new?template=submit.yml)，附上原帖链接。我们收录主要由 AI 模型完成的作品，署名作者并链接原帖。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+看到或做了适合收录的作品？[提交一条](https://github.com/lookbkdev/awesome-ai-motion-videos/issues/new?template=submit.yml)，附上原帖链接。我们收录主要由 AI 模型完成的作品，署名作者并链接原帖。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 署名与版权
 
