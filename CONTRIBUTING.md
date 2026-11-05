@@ -2,7 +2,7 @@
 
 ## Add a piece
 
-Use the [submission form](https://github.com/SHARPLEE00/awesome-ai-motion-videos/issues/new?template=submit.yml) or open a pull request that adds one object to `data/videos.json`.
+Use the [submission form](https://github.com/lookbkdev/awesome-ai-motion-videos/issues/new?template=submit.yml) or open a pull request that adds one object to `data/videos.json`.
 
 An entry qualifies when:
 

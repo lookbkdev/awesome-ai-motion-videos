@@ -416,7 +416,7 @@ Creators published these prompts with their work. Each page quotes the prompt as
 
 ## Add a piece
 
-Found or made something that belongs here? [Open a submission](https://github.com/SHARPLEE00/awesome-ai-motion-videos/issues/new?template=submit.yml) with the post link. We add pieces made mostly by an AI model, credited to the creator and linked to their post. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Found or made something that belongs here? [Open a submission](https://github.com/lookbkdev/awesome-ai-motion-videos/issues/new?template=submit.yml) with the post link. We add pieces made mostly by an AI model, credited to the creator and linked to their post. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Credits and rights
 
