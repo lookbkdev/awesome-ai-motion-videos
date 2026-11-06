@@ -323,5 +323,95 @@
     "id": "2117363258269315182",
     "handle": "minchoi",
     "reason": "roundup thread linking other creators' posts"
+  },
+  {
+    "id": "2118375300195074170",
+    "handle": "maxt3chno",
+    "reason": "shows a failed build, not a finished piece"
+  },
+  {
+    "id": "2118310642440356283",
+    "handle": "rewind02",
+    "reason": "props from Tripo image-to-3D"
+  },
+  {
+    "id": "2117949982586069461",
+    "handle": "rewind02",
+    "reason": "repost of another developer's work (dev: SirKnighty); models from Tripo"
+  },
+  {
+    "id": "2117999411397525798",
+    "handle": "rewind02",
+    "reason": "4-second clip, too short to show the piece"
+  },
+  {
+    "id": "2118351078047551917",
+    "handle": "marcthecreatorr",
+    "reason": "repost of chetaslua's pelican SVG test"
+  },
+  {
+    "id": "2117938939336306871",
+    "handle": "marcthecreatorr",
+    "reason": "follow-up reply to an already listed comparison"
+  },
+  {
+    "id": "2118192898785354185",
+    "handle": "minchoi",
+    "reason": "roundup thread linking other creators' posts"
+  },
+  {
+    "id": "2118072394753376410",
+    "handle": "igus_ai",
+    "reason": "repost of a tool's demo with faceless-channel income pitch"
+  },
+  {
+    "id": "2117947953897762899",
+    "handle": "kristerssulckis",
+    "reason": "doesn't say what was built or that it is code"
+  },
+  {
+    "id": "2118321845091160167",
+    "handle": "AI_Screening",
+    "reason": "doesn't say what was built"
+  },
+  {
+    "id": "2117959316699586956",
+    "handle": "AI_Screening",
+    "reason": "doesn't say what was built"
+  },
+  {
+    "id": "2117682945116774562",
+    "handle": "0xRhinoX",
+    "reason": "meme about the model swapping in its own logo"
+  },
+  {
+    "id": "2117648605326557643",
+    "handle": "pipeline_os",
+    "reason": "doesn't say what was built or that it is code"
+  },
+  {
+    "id": "2117624981521592790",
+    "handle": "pipeline_os",
+    "reason": "doesn't say what was built"
+  },
+  {
+    "id": "2117999118270582831",
+    "handle": "tarumainfo",
+    "reason": "tool intro, no AI coding model named"
+  },
+  {
+    "id": "2117642004255384051",
+    "handle": "SofiaTachExpert",
+    "reason": "repost of Google's own demo"
+  },
+  {
+    "id": "2117646891051889052",
+    "handle": "TimJayas",
+    "reason": "short fan-art test of licensed characters"
+  },
+  {
+    "id": "2118316297410810032",
+    "handle": "Haleeeemahh",
+    "reason": "low-effort pelican benchmark test"
   }
 ]

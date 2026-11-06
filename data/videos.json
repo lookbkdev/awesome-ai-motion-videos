@@ -3231,5 +3231,140 @@
     "text": "Voxel Creation By Fable 5.5",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117283351706980353/img/WurmCERY5WAilH_X.jpg",
     "duration": 120
+  },
+  {
+    "id": "2118312783884284024",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2118312783884284024",
+    "date": "2026-11-05",
+    "title": "Three.js lighthouse scene built fully in code",
+    "titleZh": "纯代码搭建的 Three.js 灯塔场景",
+    "category": "3d",
+    "models": [
+      "Opus 5.5",
+      "GPT-6.1 Sol"
+    ],
+    "text": "Everyone is waiting for GPT 6.2 Astra today, but I'm way more hyped for 6.2 Sol:\n\nmy best workflow is Opus 5.5 orchestrating + GPT 6.1 Sol executing\n\ncooked this full Three.js 'lighthouse' in 42 mins for just 2% quota\n\nif 6.2 Sol is 2x faster and cheaper, Opus 5.5 + Sol 6.2 is endgame",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118312642762645504/img/QB5YpehFq5ekPc_D.jpg",
+    "duration": 50.6
+  },
+  {
+    "id": "2118404190041235738",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2118404190041235738",
+    "date": "2026-11-05",
+    "title": "Movie-set apartment modeled in Blender by Opus 5.5 via MCP",
+    "titleZh": "Opus 5.5 通过 MCP 在 Blender 中建模的电影布景公寓",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Claude Opus 5.5 modeled an entire movie-set apartment in Blender..\n\nabout 5 part-time days, vs an estimated 1-2 months the traditional way.\n\nthe trick is running opus as a team lead. here’s the workflow:\n\n- step 1: connect opus 5.5 to blender through blender mcp (plus windows mcp for the desktop)\n- step 2: research first: have opus look up the real hardware and gather blueprints before modeling anything\n- step 3: block out the room layout yourself with opus, since layout is the hardest part to direct\n- step 4: have opus split the asset list and send it to parallel sonnet and haiku agents that model at the same time\n- step 5: opus handles uvs, materials, camera and compositing\n- step 6: textures: external maps for surfaces, plus vector graphics opus draws for posters and monitor screens\n- step 7: direct it with drawn notes on screenshots (often from your phone), and fix one thing per round\n\none prompt won’t get you here. you still need 3d fundamentals and a clear art direction",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118404125931048961/img/2IznuDN0CQcOTivQ.jpg",
+    "duration": 18.1
+  },
+  {
+    "id": "2117536810184438037",
+    "handle": "chetanankola",
+    "name": "Chetan Ankola",
+    "url": "https://x.com/chetanankola/status/2117536810184438037",
+    "date": "2026-11-03",
+    "title": "Lush green swamp in Three.js, ported from WebGL to WebGPU",
+    "titleZh": "从 WebGL 移植到 WebGPU 的 Three.js 绿色沼泽",
+    "category": "3d",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra"
+    ],
+    "text": "The insanely green Swamp in threejs - ported from Webgl to Webgpu\nopus 5.5 did most of the work of porting.. \nGPT 6 Astra did the original work..",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117535606234591232/img/6gXoIXwUZUmVa-FE.jpg",
+    "duration": 48.5
+  },
+  {
+    "id": "2118310499213312478",
+    "handle": "RenaRoze_doll",
+    "name": "レナロゼ💎AI情報・ゲーム制作",
+    "url": "https://x.com/RenaRoze_doll/status/2118310499213312478",
+    "date": "2026-11-05",
+    "title": "Playable 3D claw machine game with plush prizes in Three.js",
+    "titleZh": "Three.js 可玩 3D 抓娃娃机游戏",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "3Dクレーンゲーム「MALLOW CATCH」をリリースしました🐰\n\nClaude Opus 5.5と一緒に、Three.jsで作りました。\n景品は、毛並みまでもふもふのぬいぐるみたち。\nゲーセンのあのドキドキを、そのまま再現してます。\n\n最後の一発GETまで見てね！無料・リンクはリプ欄🎮\n\n……で、ここからはちょっと本音👇\n\n今週のAI界隈、情報量バグってる\n・ChatGPT Images 2.6、本日リリース\n・OpenAIの「GPT-6.2 Astra」「GPT-6.2 Sol」、もうGoogle Cloudに載ってるって噂。金曜発表説も\n・Opus 5.6、Fable 5.5がもうすぐ来るとの噂\n・Gemini 4 Carbon、DeepSeek-v4.1-flash-1017も気になりすぎる\n\nみんなが次世代AIの噂を追いかけてる間に、\nこっちは今のOpus 5.5でゲーム1本作り終わってます。\nChatGPT Images 2.6もBlenderも使ってません。全部コードです。\n\n「次のモデルが来たら本気出す」って人、\nそれ、たぶん次のモデルが来ても本気出さないやつですよ？\n\nOpus 5.5でこれなら、Opus 5.6が来たらどうなるの…\nみんなは次、どれが来ると思う？\n\n#ClaudeCode #個人開発",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118309372153786369/img/XEntIBtKwVygZ6Cg.jpg",
+    "duration": 32
+  },
+  {
+    "id": "2118072739864989944",
+    "handle": "dromexa",
+    "name": "Dromexa",
+    "url": "https://x.com/dromexa/status/2118072739864989944",
+    "date": "2026-11-04",
+    "title": "Same prompt, 2 models: sewing machine with X-ray, cutaway and exploded view",
+    "titleZh": "同一提示词双模型对比：可透视、剖切、爆炸拆解的缝纫机",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Opus 5.5"
+    ],
+    "text": "🚨 Gemini 4 Carbon vs Opus 5.5, round 4\n\nSame prompt, one shot each: a sewing machine you can X-ray, cut in half, explode and lay out part by part. And it has to actually make a stitch.\n\nCarbon made a cool f*cking steel machine.\n\n4 for 4. Carbon is untouchable\n\nWhat should round 5 be? 👇",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118072672684838913/img/gEj4lSjx1hb0Avmy.jpg",
+    "duration": 32.4
+  },
+  {
+    "id": "2117706843799658507",
+    "handle": "olezhavich",
+    "name": "Olezhka",
+    "url": "https://x.com/olezhavich/status/2117706843799658507",
+    "date": "2026-11-03",
+    "title": "Same prompt, 4 models: live pen drawing of a city sunset and muscle car",
+    "titleZh": "同一提示词四模型对比：现场笔绘城市日落与老式肌肉车",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Opus 5.5",
+      "Gemini 4 Argon",
+      "GPT-6 Astra"
+    ],
+    "text": "Is Gemini 4 Carbon still the best? I gave four models a blank page and a pen ✏️\n\nSame prompt, one try each: draw a sunset over a city in about 10 seconds, watch the color flood in, and park an old American muscle car in front.\n\nAll four drew it live with a pen (and all four painted the car teal), so it comes down to the details:\n\n>Gemini 4 Carbon: a moody night city, glowing windows and headlight beams across the road. The most cinematic.\n\n>Claude Opus 5.5: the most detailed skyline, with tiny windows, palm trees, a sunburst and birds.\n\n>Gemini 4 Argon: a purple and orange sunset with the sun between the towers, and a nicely drawn car.\n\n>GPT 6 Astra: the cleanest car sketch, but the palest colors.\n\nIs Carbon winning on lighting again, or does Opus still win on detail?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117705267252973568/img/w7vxDr0NwW1MAxVI.jpg",
+    "duration": 11.4
+  },
+  {
+    "id": "2117976713254801505",
+    "handle": "pbshgthm",
+    "name": "poobesh",
+    "url": "https://x.com/pbshgthm/status/2117976713254801505",
+    "date": "2026-11-04",
+    "title": "Mahabharata sequence painted and animated with p5.brush code",
+    "titleZh": "用 p5.brush 代码绘制并驱动动画的《摩诃婆罗多》片段",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Argon",
+      "GPT-6.1 Sol"
+    ],
+    "text": "i wanted to see how well coding agents can visualise Indian mythology, so i made a short sequence from the mahabharata using gemini 4 argon and gpt sol 6.1\n\neach frame is created with p5.brush code and animated using code. argon made the base visuals, and it has quite a distinct visual style. \n\nmusic is generated with suno, and gpt sol 6.1 reviewed and stitched it all together\n\nthis is part 1, lmk if should so part 2 as well\n\n🧵 sharing the process in the thread",
+    "thumb": "https://pbs.twimg.com/media/HWSRHzYXoAE0yof.jpg",
+    "duration": 103.7
+  },
+  {
+    "id": "2117463779315462501",
+    "handle": "cfenghub",
+    "name": "CF长风",
+    "url": "https://x.com/cfenghub/status/2117463779315462501",
+    "date": "2026-11-03",
+    "title": "Voxel floating island with villagers living through weather and seasons",
+    "titleZh": "体素浮空岛：小人随天气与节日过日子",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Argon"
+    ],
+    "text": "昨天用gemini4 argon复现了一个养成类浮空岛\n\n用 Three.js 纯代码直出单页 HTML 体素小岛\n没有外部资产、没有贴图，\n最打动我的不是这几行代码，而是这群赛博小人的日子，\n\n下雨会找屋檐躲雨，饿了会去吃饭；\n遇到热气球会抬头张望，过节还会放烟花，风雨雷雪轮着转，一家人在岛上日出而作、日落而息\n我一直在看，看他们一家的生活，看了好久好久，\n这特么不就是我们一直想要的生活么，现实没实现，代码先实现了！wocao!",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117445723528830976/img/sohP0-cJAcSKmPIN.jpg",
+    "duration": 59.9
   }
 ]
