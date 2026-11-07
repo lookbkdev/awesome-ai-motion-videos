@@ -413,5 +413,60 @@
     "id": "2118316297410810032",
     "handle": "Haleeeemahh",
     "reason": "low-effort pelican benchmark test"
+  },
+  {
+    "id": "2118748986366632319",
+    "handle": "AI_Screening",
+    "reason": "same tiger prompt as the creator's listed Carbon/Opus/Argon comparison"
+  },
+  {
+    "id": "2118675434611290406",
+    "handle": "AI_Screening",
+    "reason": "single-model take on the same tiger prompt already listed"
+  },
+  {
+    "id": "2118670568266326369",
+    "handle": "marcthecreatorr",
+    "reason": "routine pelican SVG benchmark test"
+  },
+  {
+    "id": "2118684380327485586",
+    "handle": "maxt3chno",
+    "reason": "failed Blender result posted as a warning"
+  },
+  {
+    "id": "2118722284328190248",
+    "handle": "rewind02",
+    "reason": "characters and props from Tripo image-to-3D"
+  },
+  {
+    "id": "2118673287228064010",
+    "handle": "rewind02",
+    "reason": "big models from Tripo image-to-3D"
+  },
+  {
+    "id": "2118396207676510509",
+    "handle": "isagi1000x",
+    "reason": "repost of another creator's work"
+  },
+  {
+    "id": "2118729462908919826",
+    "handle": "isagi1000x",
+    "reason": "repost of another creator's work"
+  },
+  {
+    "id": "2118577485629870112",
+    "handle": "ash_twtz",
+    "reason": "AI video meme, not model-coded"
+  },
+  {
+    "id": "2118745220254941232",
+    "handle": "chetaslua",
+    "reason": "Gemini Omni video generation, not code"
+  },
+  {
+    "id": "2118847014071120179",
+    "handle": "apekshik",
+    "reason": "human-built game that calls Opus at runtime; not a model-coded piece"
   }
 ]

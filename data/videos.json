@@ -3366,5 +3366,146 @@
     "text": "昨天用gemini4 argon复现了一个养成类浮空岛\n\n用 Three.js 纯代码直出单页 HTML 体素小岛\n没有外部资产、没有贴图，\n最打动我的不是这几行代码，而是这群赛博小人的日子，\n\n下雨会找屋檐躲雨，饿了会去吃饭；\n遇到热气球会抬头张望，过节还会放烟花，风雨雷雪轮着转，一家人在岛上日出而作、日落而息\n我一直在看，看他们一家的生活，看了好久好久，\n这特么不就是我们一直想要的生活么，现实没实现，代码先实现了！wocao!",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117445723528830976/img/sohP0-cJAcSKmPIN.jpg",
     "duration": 59.9
+  },
+  {
+    "id": "2117622619990093952",
+    "handle": "kinderlayer",
+    "name": "Kinder",
+    "url": "https://x.com/kinderlayer/status/2117622619990093952",
+    "date": "2026-11-03",
+    "title": "Octopus cooking breakfast with eight arms: four models, one prompt",
+    "titleZh": "八爪鱼八只手同时做早餐：四个模型同题对比",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Gemini 4 Argon",
+      "Opus 5.5",
+      "GPT-6 Astra"
+    ],
+    "text": "this is f*cking adorable. four models, one prompt: an octopus making breakfast with all eight arms.\n\nGemini 4 Carbon · Gemini 4 Argon · Claude Opus 5.5 · GPT-6 Astra\n\neight arms, eight jobs - flipping pancakes, pouring coffee, reading the recipe, frying eggs, all at once. and honestly? they all pulled it off. different vibes, different kitchens, same impossible multitask nailed.\n\nI didn’t touch a thing and I’m not scoring them. so it comes down to taste: whose kitchen would you actually eat breakfast in?\n\nCarbon, Argon, Opus or Astra? drop your pick",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117622590181195776/img/1mSOGXZF6oNFgUx-.jpg",
+    "duration": 12.8
+  },
+  {
+    "id": "2118742203371573615",
+    "handle": "EnvolDev",
+    "name": "Tony",
+    "url": "https://x.com/EnvolDev/status/2118742203371573615",
+    "date": "2026-11-06",
+    "title": "Iceberg arch under the aurora at four Opus 5.5 effort levels",
+    "titleZh": "极光下的冰山拱门：Opus 5.5 四档推理强度对比",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Claude Opus 5.5 High vs Extra High vs Max vs Ultra 🧊\n\nEveryone's been wondering: does effort really matter?\n\nSame model. Same prompt. Only the setting changes.\n\nHigh: $26.01 · 2h 17m 21s\nExtra High: $45.97 · 3h 11m 26s\nMax: $84.93 · 3h 37m 47s\nUltra: $681.91 · 10h 47m 40s\n\nUltra cost $681.91 for a 25-second film. 🤯\nThat's 26x High... and 8x Max. 😱\n\nFor me, Extra High is the sweet spot: quality, time and money. That's why I always pick it.\n\nSo, does effort really matter? Which one would you pick? 👀",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118408951108943872/img/IK8r-g1J5uNC6YWZ.jpg",
+    "duration": 25
+  },
+  {
+    "id": "2118379815464251868",
+    "handle": "EnvolDev",
+    "name": "Tony",
+    "url": "https://x.com/EnvolDev/status/2118379815464251868",
+    "date": "2026-11-05",
+    "title": "Rocket launch pad at dusk across four models",
+    "titleZh": "黄昏火箭发射台：四个模型同题对比",
+    "category": "comparison",
+    "models": [
+      "Sonnet 5.5",
+      "GPT-6.1 Terra",
+      "DeepSeek V4.1 Flash-1017",
+      "GPT-6.1 Sol"
+    ],
+    "text": "Claude Sonnet 5.5 vs GPT-6.1 Terra vs DeepSeek V4.1 Flash 1017 vs GPT-6.1 Sol 🚀\n\nSol is incredible on this one. 🤯\nTerra: 89x cheaper than Sonnet and almost 9x faster. 😱\n\nSame prompt - One shot\nSonnet: $67.73 · 3h 05m 56s\nTerra: $0.76 · 21m 19s\nDeepSeek V4.1 Flash 1017: $0.39 · 1h 18m 10s\nSol: $2.05 · 42m 46s\n\nWhich one wins for you? 👀",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118091673104502784/img/-ivqeZuI7JyjjGhC.jpg",
+    "duration": 25
+  },
+  {
+    "id": "2118858469529063472",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2118858469529063472",
+    "date": "2026-11-07",
+    "title": "Jungle canopy research station diorama with rope bridges",
+    "titleZh": "丛林树冠科考站微缩场景（含绳桥与行走的科学家）",
+    "category": "3d",
+    "models": [
+      "DeepSeek V4.1 Flash-1017"
+    ],
+    "text": "No Qwen, but am not sad, i have DeepSeek and dozens of unreleased demos.\n\nA jungle park diorama: a canopy research station with rope bridges and platforms between huge trees, scientists walking the bridges....\n\nMade one-shot, without any harness, or tool calls by DeepSee-v4.1-flash-1017 !!\n\nWhat's really interesting is the trees, like all vegetation is really well done, most of other models get that wrong, deepseek-flash has improved on many minor things like this which result in overall improved experience.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118822528907161600/img/yRwGi7lZVimfD3y6.jpg",
+    "duration": 57.8
+  },
+  {
+    "id": "2118646149586309188",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2118646149586309188",
+    "date": "2026-11-06",
+    "title": "Voxel floating kingdom at sunset from a single prompt",
+    "titleZh": "单条提示词生成的日落体素浮空王国",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Gemini 4 Hydrogen: new checkpoint (Floating Kingdom)\n\nspotted as \"gemini-3.8-flash\" on Arena and it built this in a single prompt under ~10 mins \n\n> there are currently two checkpoints, likely the team is A/B testing different variants\n\ncan't say much about it yet but it seems newer flash models from gemini are getting a big boost.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118645720345456640/img/5rMMOHQU15lccg5B.jpg",
+    "duration": 41.3
+  },
+  {
+    "id": "2118780296179179714",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2118780296179179714",
+    "date": "2026-11-06",
+    "title": "Detailed three.js hypercar: Gemini 4 Hydrogen vs GPT-6.1 Sol",
+    "titleZh": "Three.js 精细超跑：Gemini 4 Hydrogen 对比 GPT-6.1 Sol",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Hydrogen",
+      "GPT-6.1 Sol"
+    ],
+    "text": "Gemini 4 Hydrogen vs GPT 6.1 Sol \n\nsame prompt: create a hypercar in three.js and make it as realistic and detailed as possible (add decals, make it shiny) \n\n> gemini 4 hydrogen came super fast under ~5 mins in Arena \n> gpt 6.1 sol ran on max reasoning in codex cli, took ~20 mins \n\nGPT-6.1 Sol did a good job too, but 20 minutes feels pretty slow for a prompt like this. what do you think? \n\nPS: GPT 6.2 Sol isn’t dropping this week btw :(",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118779897426432002/img/BZdwTIe-5Uk22M9H.jpg",
+    "duration": 38,
+    "prompt": "create a hypercar in three.js and make it as realistic and detailed as possible (add decals, make it shiny)",
+    "promptUrl": "https://x.com/marcthecreatorr/status/2118780296179179714"
+  },
+  {
+    "id": "2118380786357555259",
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy",
+    "url": "https://x.com/AI_Screening/status/2118380786357555259",
+    "date": "2026-11-05",
+    "title": "Galloping tiger animation: Gemini 4 Carbon vs Opus 5.5 vs Gemini 4 Argon",
+    "titleZh": "奔跑的老虎动画：Gemini 4 Carbon、Opus 5.5 与 Gemini 4 Argon 对比",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Opus 5.5",
+      "Gemini 4 Argon"
+    ],
+    "text": "Gemini 4 Carbon in Arena vs. Opus 5.5 vs. Argon\n\n>It seems like Carbon will make Opus 5.5 unemployed.😅",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118380621500473345/img/rZFk_WesmWaW7Xu8.jpg",
+    "duration": 17.4
+  },
+  {
+    "id": "2118323489560219791",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2118323489560219791",
+    "date": "2026-11-05",
+    "title": "Realistic pelican riding a bicycle in pure-code SVG",
+    "titleZh": "纯代码 SVG 绘制的写实鹈鹕骑自行车",
+    "category": "motion",
+    "models": [
+      "Sonnet 5.5"
+    ],
+    "text": "🚨 Sonnet 5.5 Extra looks like routing to next claude model\n\nasked \"do you where karpathy went in 2026 do not use web\"\n> joined anthropic , may 2026 , pretraining team\n\nsame chat , \"pelican riding bike as realistic as you can only with codes\"\n\n> 26,599 svg elements , 6.5k feather strokes\n> 0 images / 0 data uris / 0 scripts\n> 1,860 lines of python , rebuilds byte for byte\n\nno cheating its pure code 🤯",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118323409486811136/img/5sfzqI7i0UzSW9LB.jpg",
+    "duration": 20,
+    "prompt": "pelican riding bike as realistic as you can only with codes",
+    "promptUrl": "https://x.com/chetaslua/status/2118323489560219791"
   }
 ]
