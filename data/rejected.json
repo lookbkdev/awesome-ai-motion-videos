@@ -468,5 +468,50 @@
     "id": "2118847014071120179",
     "handle": "apekshik",
     "reason": "human-built game that calls Opus at runtime; not a model-coded piece"
+  },
+  {
+    "id": "2118695962004873228",
+    "handle": "AI_Screening",
+    "reason": "single-model take on the creator’s Apache helicopter comparison"
+  },
+  {
+    "id": "2118936477250076838",
+    "handle": "AI_Screening",
+    "reason": "single-model take on the creator’s cyclist comparison"
+  },
+  {
+    "id": "2119215777563680990",
+    "handle": "LuminaBench",
+    "reason": "quote repost of the creator’s own zombie game post"
+  },
+  {
+    "id": "2117944145520083054",
+    "handle": "kinderlayer",
+    "reason": "photoreal footage, no sign it was made in code"
+  },
+  {
+    "id": "2118389758036509090",
+    "handle": "kinderlayer",
+    "reason": "photoreal footage, no sign it was made in code"
+  },
+  {
+    "id": "2119135579673665804",
+    "handle": "maxt3chno",
+    "reason": "complaint post re-showing older work"
+  },
+  {
+    "id": "2119024722516029898",
+    "handle": "maxt3chno",
+    "reason": "raw Blender test, creator calls it far from ideal"
+  },
+  {
+    "id": "2119035947211685947",
+    "handle": "rewind02",
+    "reason": "4-second base mannequin test"
+  },
+  {
+    "id": "2119079320127959463",
+    "handle": "socialwithaayan",
+    "reason": "promo for a skill repo, mostly GitHub screenshots"
   }
 ]

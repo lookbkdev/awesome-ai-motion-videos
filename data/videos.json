@@ -3507,5 +3507,139 @@
     "duration": 20,
     "prompt": "pelican riding bike as realistic as you can only with codes",
     "promptUrl": "https://x.com/chetaslua/status/2118323489560219791"
+  },
+  {
+    "id": "2118426372330663936",
+    "handle": "superalesha",
+    "name": "Alexey Fateev",
+    "url": "https://x.com/superalesha/status/2118426372330663936",
+    "date": "2026-11-05",
+    "title": "Tidal lighthouse diorama with breaking waves in Three.js",
+    "titleZh": "Three.js 潮汐灯塔微缩场景（含拍岸浪花）",
+    "category": "3d",
+    "models": [
+      "Tencent HY4"
+    ],
+    "text": "Hy4 created this in one shot.\n\nprompt in reply 👇",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118363130354876416/img/SPzdH6s7ZBJ6k3mO.jpg",
+    "duration": 40,
+    "prompt": "Build an animated Three.js diorama: THE TIDAL LIGHTHOUSE.\n\nA rugged miniature coastline curves around a sheltered turquoise harbor. On the highest rocky point stands a weathered red-and-white lighthouse. A winding stone stair connects it to a tiny fishing cottage, a wooden jetty and two moored boats.\n\nCompose the landscape as one irregular island-like display piece against a soft pale background. Its cutaway sides reveal layered rock, sand and the underwater seabed. Give the coastline a strong silhouette and make it interesting from every side.\n\nThe ocean is the main visual attraction. On the exposed side, rolling swells approach the rocks, steepen and break into white foam. Water washes across low rock shelves and drains back. In the sheltered harbor, use smaller ripples and clearer water, revealing sand, stones and patches of sea grass. Transition naturally from deep blue to turquoise to transparent shallows.\n\nGive the lighthouse and cottage tactile detail: worn plaster, stone foundations, a copper lantern roof, window frames, warm interior light, ropes and fishing equipment near the jetty. Use coastal grasses and small flowers sparingly.\n\nSet the scene in late-afternoon light: warm sun on the buildings, cool blue shadows in the rocks, bright foam and restrained reflections. Keep the scene readable and richly colored.\n\nEverything runs continuously: waves arrive in overlapping sets, foam disperses, boats bob gently on their moorings, a few gulls circle and grass moves in the wind. Keep the water motion coherent, with the sheltered harbor visibly calmer than the open coast.\n\nGive me full manual camera control: mouse drag to orbit, right-drag to pan, wheel to zoom, with smooth damping. Start with a beautiful elevated three-quarter view showing both the harbor and breaking waves. Keep the camera entirely under my control. H hides any interface; R resets the view.\n\nGenerate all geometry and textures in code. Use Three.js and necessary libraries, without downloaded images or models. Deliver a compact runnable web project.\n\nConcentrate on beautiful water, a strong composition and convincing light. Check the result in the browser from an overall view and a closer water-level view, fix obvious problems, then deliver with launch instructions. Avoid adding unrelated features or a testing framework.",
+    "promptUrl": "https://x.com/superalesha/status/2118426373261807891"
+  },
+  {
+    "id": "2119134904600654279",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2119134904600654279",
+    "date": "2026-11-07",
+    "title": "Paper-cutout fighters leap off the page in pure JS",
+    "titleZh": "纯 JS 打造的纸片人从纸上跳出来对战",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.5 : goku vs vegeta \n\nbut they are paper cutouts  they come out of the paper , \n\nfight with real physics , power up to super saiyan and jump out of the photo  \n\nall of it purely js , not a single image",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119134870735847424/img/D3Tsn90hcm3aowCM.jpg",
+    "duration": 21.7
+  },
+  {
+    "id": "2118301885710877147",
+    "handle": "kinderlayer",
+    "name": "Kinder",
+    "url": "https://x.com/kinderlayer/status/2118301885710877147",
+    "date": "2026-11-05",
+    "title": "Animated radial engine: four models, one prompt",
+    "titleZh": "星型发动机动画：四个模型同题对比",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra",
+      "Gemini 4 Argon",
+      "Grok 4.7"
+    ],
+    "text": "this is getting f*cking dangerous. a radial engine has one job - every piston drives the same center, or it spins nothing. no style points.\n\nso I handed the same prompt to four models and watched what they actually built.\n\nClaude Opus 5.5 · GPT-6 Astra · Gemini 4 Argon · Grok 4.7\n\npistons fanned out like a star, rods all reaching for one hub. four takes on the same machine - and every one bet on a different idea of what “connected” even means.\n\nI didn’t touch the outputs and I’m not scoring them. you’ve got eyes: which one could actually turn over, and which one’s just a pretty pinwheel?\n\nOpus, Astra, Gemini or Grok?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118301829809229824/img/f7cva1eGiX5SqoBJ.jpg",
+    "duration": 12.2
+  },
+  {
+    "id": "2118982033569624474",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2118982033569624474",
+    "date": "2026-11-07",
+    "title": "Japanese thatched-roof village diorama with cherry blossoms",
+    "titleZh": "樱花环绕的日式合掌屋村落微缩场景",
+    "category": "3d",
+    "models": [
+      "DeepSeek V4.1 Flash-1017"
+    ],
+    "text": "How did DeepSeek-v4.1-flash-1017 improve this much on 3D, seeing more and more demo's from other model make the distinction even more clear.\n\nNo other flash model is this good, even most pro models is not this good. \n\nI hope Qwen4-flash beats it, but that might be tough unless Qwen goes big.\n\nTalking about one-shot, with enough turns other's can also build, but that requires more time and token which means more dinero.\n\nHere's another one, first try, single shot, no extra turns, no harness used. No external assets, everything in code.\n\nAround 120k tokens in total, less than 10min.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118951274284814336/img/FbnrJWeoIz5dxwzG.jpg",
+    "duration": 55.2
+  },
+  {
+    "id": "2119123553090257045",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2119123553090257045",
+    "date": "2026-11-07",
+    "title": "Real-time N-body gravity simulator with solar system and galaxy presets",
+    "titleZh": "实时 N 体引力模拟器（太阳系与星系预设）",
+    "category": "interactive",
+    "models": [
+      "DeepSeek V4.1 Flash-1017"
+    ],
+    "text": "Since i don't have access to Qwen4, decided to burn through my DeepSeek credits !!!\n\nStarting with what community is showcasing for Qwen4, goal is to see how well DeepSeek-v4.1-flash result is. \n\nI tried @aijoey prompt for building a real-time gravitational N-body simulation with DeepSeek-v4.1-Flash-1017 !\n\nAnd result looks absolutely amazing !!\n\nWith DeepSeek Harness, and it made this in single turn !\n\n- 14M tokens\n~35 minutes (llm + tool calls)\n- 160 tok/s on avg",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119122598776999938/img/0kIdXAZE_7_Sox8G.jpg",
+    "duration": 174.8
+  },
+  {
+    "id": "2119188183649075418",
+    "handle": "LuminaBench",
+    "name": "Lumina",
+    "url": "https://x.com/LuminaBench/status/2119188183649075418",
+    "date": "2026-11-07",
+    "title": "Browser zombie shooter with two maps, bosses and a trailer",
+    "titleZh": "浏览器僵尸射击游戏（两张地图、Boss 战和预告片）",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Introducing Claude Zombies\n\nThere are 2 maps to begin with:\n• The Rig\n• Das Eishaus (inspo from Reddit + the movie \"The Thing\")\n\nEach map has its own big Easter egg and a unique craftable wonder weapon, along with:\n\n• Perks, the mystery crate and The Rift\n• Hidden easter eggs 👀\n• Boss fights and hound rounds + mini bosses\n• 20+ weapons, Karambit, craftable shield and good movement\n• Runs well on a browser in a single .html file on trash hardware\n\nMade fully by Opus 5.5 (even the trailer), I always loved BO1 and BO2 zombies growing up so decided to make my own spin off game with some horror elements, made with spare usage I had left over the past week\n\nThanks to all my X subs for testing it and you will get new maps before others and full access\n\nIf you know me DM me for access if you want to try it, also join our Discord and I will give some people early access to it",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119175486882344961/img/x1DwQudPmQPqOev4.jpg",
+    "duration": 76.4
+  },
+  {
+    "id": "2119027248540139661",
+    "handle": "doe_naps",
+    "name": "Doe",
+    "url": "https://x.com/doe_naps/status/2119027248540139661",
+    "date": "2026-11-07",
+    "title": "Steam train through an alpine valley with driver controls",
+    "titleZh": "穿越高山河谷的蒸汽火车（带驾驶控制面板）",
+    "category": "3d",
+    "models": [
+      "Sonnet 5.5"
+    ],
+    "text": "Sonnet 5.5 High on same prompt and now everything turns super premium\n\nLove how creative it is😋, tested on Opus 5.5 High too but the Sonnet one wins.. will post Opus as a comparison. Didn't want a side-by-side bcs it felt like the Sonnet one needs its own post.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119023042215186433/img/ImPYlbOqVzq7ixg4.jpg",
+    "duration": 64.8
+  },
+  {
+    "id": "2119055377346232336",
+    "handle": "HarshithLucky3",
+    "name": "Harshith",
+    "url": "https://x.com/HarshithLucky3/status/2119055377346232336",
+    "date": "2026-11-07",
+    "title": "Voxel sunken Colosseum coral reef: Gemini 4 Hydrogen vs Gemini 3.8 Flash",
+    "titleZh": "体素沉没斗兽场珊瑚礁：Gemini 4 Hydrogen 对比 Gemini 3.8 Flash",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Hydrogen",
+      "Gemini 3.8 Flash"
+    ],
+    "text": "another comparison between Gemini 4 Hydrogen and 3.8 Flash high\n\ndifference is HUGEE\n\n> VOXEL MODEL of Sunken Colosseum Coral Reef \"1M+ voxels\"",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119055085435277312/img/JNvdo9i47wL1sqiR.jpg",
+    "duration": 25
   }
 ]
