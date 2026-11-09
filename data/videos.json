@@ -3641,5 +3641,140 @@
     "text": "another comparison between Gemini 4 Hydrogen and 3.8 Flash high\n\ndifference is HUGEE\n\n> VOXEL MODEL of Sunken Colosseum Coral Reef \"1M+ voxels\"",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119055085435277312/img/JNvdo9i47wL1sqiR.jpg",
     "duration": 25
+  },
+  {
+    "id": "2119503438405136765",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2119503438405136765",
+    "date": "2026-11-08",
+    "title": "Interactive three.js sailing ship: GPT-6.2 Sol vs Opus 5.5",
+    "titleZh": "Three.js 交互式帆船：GPT-6.2 Sol 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "GPT-6.2 Sol",
+      "Opus 5.5"
+    ],
+    "text": "GPT 6.2 Sol vs Opus 5.5 [3D Sailing Ship Test] \n\nsame prompt: create an interactive sailing ship in three.js, make it detailed as possible:\n\n- GPT 6.2 Sol: ~27 minutes and cost $3 \n- Opus 5.5: max reasoning ~1hr 35 mins and cost $16 \n\nSol did a better job recreating the ship itself, especially the shape, sails and lighting but Opus has a more detailed background overall. \n\nbe honest, which one would you pick here?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119502925797953536/img/wiZ1ZbgBM5mZnQY9.jpg",
+    "duration": 49.5
+  },
+  {
+    "id": "2119436039488156158",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2119436039488156158",
+    "date": "2026-11-08",
+    "title": "Paper-cut seaside sunset animation, all motion in code",
+    "titleZh": "纸艺质感海边日落动画（动效全部由代码编写）",
+    "category": "motion",
+    "models": [
+      "Opus 5.5",
+      "GPT Image 2.6"
+    ],
+    "text": "Animation by Claude Opus 5.5\n\nPaintings and paper textures generated with GPT Image 2.6 via @fal\n\nAll motion written in code",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119433206281977856/img/Dz8WtgPP43mu6zEn.jpg",
+    "duration": 37.5
+  },
+  {
+    "id": "2119025615420481792",
+    "handle": "kinderlayer",
+    "name": "Kinder",
+    "url": "https://x.com/kinderlayer/status/2119025615420481792",
+    "date": "2026-11-07",
+    "title": "Firing combustion cylinder blueprint: four models, one prompt",
+    "titleZh": "内燃机气缸点火蓝图动画：四个模型同一提示词",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Argon",
+      "GPT-6 Astra",
+      "Opus 5.5",
+      "Grok 4.7"
+    ],
+    "text": "look f*cking closer. a combustion engine has one job - the fuel ignites, the piston gets slammed down. no fire, no power.\n\nfour models, same prompt, same cylinder:\nGemini 4 Argon · GPT-6 Astra · Claude Opus 5.5 · Grok 4.7\n\nthree of them actually light the charge - you can see the flash fire and drive the piston. one cylinder just sits there dark, like the spark never came.\n\nI didn’t touch a thing and I’m not scoring them. you’ve got eyes: which one’s a real engine firing, and which one’s a dead cylinder pretending?\n\nGemini, Astra, Opus or Grok?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119025475456512001/img/BuZOC5GW-29_4x9q.jpg",
+    "duration": 13.2
+  },
+  {
+    "id": "2119536979885031819",
+    "handle": "ChrisGPT",
+    "name": "Chris",
+    "url": "https://x.com/ChrisGPT/status/2119536979885031819",
+    "date": "2026-11-08",
+    "title": "Moebius-style comic set in motion by a self-written renderer, with sound",
+    "titleZh": "Moebius 风漫画动起来：模型自写渲染器并配音效",
+    "category": "motion",
+    "models": [],
+    "text": "I gave the new Claude checkpoint a large prompt to make a Moebius comic move.\n\nIt wrote its own renderer from scratch. No Blender, no GPU, 2 CPU cores. It also made the sound.\n\nThen I had it grade and it kept fixing things for 15 rounds until every score hit 9 on my personal rubric.\n\n25 seconds, rendered in 21 minutes.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119536935970455552/img/3cFRHmd6Vfsnzyh_.jpg",
+    "duration": 25
+  },
+  {
+    "id": "2119395213810479217",
+    "handle": "olezhavich",
+    "name": "Olezhka",
+    "url": "https://x.com/olezhavich/status/2119395213810479217",
+    "date": "2026-11-08",
+    "title": "Conveyor-belt sushi bar animation: four models, one prompt",
+    "titleZh": "回转寿司店动画：四个模型同一提示词",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Hydrogen",
+      "Opus 5.5",
+      "Tencent Hy4",
+      "Qwen 4"
+    ],
+    "text": "Which AI would you hire to run a sushi bar? 🍣\n\nSame prompt, one try each: a conveyor belt, a chef, and customers who grab plates as they pass.\n\n• Gemini 4 Hydrogen: surprised me the most and handled the prompt best of the four. The only flaw is the mouths between the eyes.\n\n• Claude Opus 5.5: the steadiest result, with no weak moments across the whole clip.\n\n• Tencent Hy4: a cheap-looking, mid-level result.\n\n• Qwen 4: the best food detail of the four, but the colors fall flat.\n\nWho gets your first order?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119391399892140032/img/cfKp4x45NZTQ2xVR.jpg",
+    "duration": 13.1
+  },
+  {
+    "id": "2119493602900369465",
+    "handle": "gokayfem",
+    "name": "gokaygokay",
+    "url": "https://x.com/gokayfem/status/2119493602900369465",
+    "date": "2026-11-08",
+    "title": "Troll character sculpted step by step from a reference image",
+    "titleZh": "按参考图逐步雕刻的巨魔角色",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "sculpting attempt with opus 5.5",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119493580376920064/img/fotO8-OqTAxv-CVt.jpg",
+    "duration": 24.1
+  },
+  {
+    "id": "2119353034165891308",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2119353034165891308",
+    "date": "2026-11-08",
+    "title": "Animated light/dark mode toggle UIs",
+    "titleZh": "明暗模式切换 UI 动效合集",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.5 made these ui to toggle light/dark mode",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119352877936459776/img/ND8WS9BfOWj0JHjH.jpg",
+    "duration": 48.9
+  },
+  {
+    "id": "2119099536107094271",
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy",
+    "url": "https://x.com/AI_Screening/status/2119099536107094271",
+    "date": "2026-11-07",
+    "title": "Side-view cyclist animation: Gemini 4 Hydrogen vs Gemini 3.8 Flash",
+    "titleZh": "侧视骑行动画：Gemini 4 Hydrogen 对比 Gemini 3.8 Flash",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Hydrogen",
+      "Gemini 3.8 Flash"
+    ],
+    "text": "Gemini 4 Hydrogen (Flash) vs. Gemini 3.8 Flash\n\n>If Hydrogen is the same price as Gemini 3.8 Flash, or even has a 10 percent price hike, it would still be the very best price-performance model.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119099321518014465/img/x6_6NjS19dv7_wi6.jpg",
+    "duration": 17.9
   }
 ]

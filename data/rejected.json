@@ -513,5 +513,50 @@
     "id": "2119079320127959463",
     "handle": "socialwithaayan",
     "reason": "promo for a skill repo, mostly GitHub screenshots"
+  },
+  {
+    "id": "2118719831742836952",
+    "handle": "AI_Screening",
+    "reason": "plain helicopter renders on a blank background; creator's cyclist comparison listed instead"
+  },
+  {
+    "id": "2119462004075491743",
+    "handle": "AI_Screening",
+    "reason": "reuses the tiger prompt from the creator's listed Carbon/Argon comparison"
+  },
+  {
+    "id": "2119414766875914543",
+    "handle": "AI_Screening",
+    "reason": "single-model take on the creator's motorcycle comparison"
+  },
+  {
+    "id": "2119437126194335764",
+    "handle": "marcthecreatorr",
+    "reason": "single-model take on the creator's listed sailing ship comparison"
+  },
+  {
+    "id": "2119440388876321209",
+    "handle": "maxt3chno",
+    "reason": "same Baba Yaga hut prompt as the creator's listed Blender comparison"
+  },
+  {
+    "id": "2119384176793153579",
+    "handle": "maxt3chno",
+    "reason": "motion from a video-gen reference via Rokoko mocap"
+  },
+  {
+    "id": "2119398119209107493",
+    "handle": "rewind02",
+    "reason": "repost of another developer's work (dev: Dhruval); models from Tripo"
+  },
+  {
+    "id": "2119468509184901327",
+    "handle": "minchoi",
+    "reason": "how-to thread; characters from Tripo image-to-3D"
+  },
+  {
+    "id": "2119390399613509922",
+    "handle": "kinderlayer",
+    "reason": "photoreal footage, no sign it was made in code"
   }
 ]
