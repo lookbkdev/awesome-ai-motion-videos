@@ -3776,5 +3776,134 @@
     "text": "Gemini 4 Hydrogen (Flash) vs. Gemini 3.8 Flash\n\n>If Hydrogen is the same price as Gemini 3.8 Flash, or even has a 10 percent price hike, it would still be the very best price-performance model.",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119099321518014465/img/x6_6NjS19dv7_wi6.jpg",
     "duration": 17.9
+  },
+  {
+    "id": "2119868968307695818",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+    "date": "2026-11-09",
+    "title": "Browser boat ride through eight dreamlike worlds",
+    "titleZh": "穿越八个梦境世界的浏览器乘船游戏",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nIt's a boat ride through 8 dreamlike worlds",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg",
+    "duration": 57
+  },
+  {
+    "id": "2119907318729245180",
+    "handle": "EnvolDev",
+    "name": "Tony",
+    "url": "https://x.com/EnvolDev/status/2119907318729245180",
+    "date": "2026-11-09",
+    "title": "Cathedral of Ice with ship and whale: Fable 5.2 vs Opus 5.5",
+    "titleZh": "冰之大教堂（帆船与鲸鱼）：Fable 5.2 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "Claude Fable 5.2 vs Claude Opus 5.5 🧊\n\nThe first Fable 5.2 result is here. And it's totally insane. 🤯\n\nSame prompt. Cathedral of Ice.\nFable 5.2: $81.10 · 1h 56m 52s\nOpus 5.5: $45.97 · 3h 11m 26s\n\nI know I say it every time, but this is a huge leap. A huge jump. 😱\n\nFable cost more, but it finished 1h 15m faster. And just look at the ice, the ship, the whale. 👀\n\nThe future looks bright and amazing. 🔥\n\nWhat do you guys think?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119907107449544704/img/_FXplhYeFHcSwGbz.jpg",
+    "duration": 25
+  },
+  {
+    "id": "2119966147328299284",
+    "handle": "xikhar",
+    "name": "Shikhar",
+    "url": "https://x.com/xikhar/status/2119966147328299284",
+    "date": "2026-11-10",
+    "title": "Bugatti Tourbillon modeled and rendered in Blender, interior included",
+    "titleZh": "在 Blender 中建模并渲染的布加迪 Tourbillon（含内饰）",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 just built a Bugatti Tourbillon in Blender.\n\nIt modeled every part, including the interior, then rendered the cinematic.\n\nAll from a single prompt and reference images in 2.5 hours",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119965554627014656/img/DavEdty2TpA_b3JZ.jpg",
+    "duration": 33.7
+  },
+  {
+    "id": "2119700481216045479",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2119700481216045479",
+    "date": "2026-11-09",
+    "title": "Painterly anime short drawn in pure code from one prompt",
+    "titleZh": "一条提示词、纯代码绘制的手绘风动画短片",
+    "category": "motion",
+    "models": [
+      "Gemini Krypton"
+    ],
+    "text": "Wtf Google who hurted you bro , this is one of the best output ever 🤯\n\nKrypton made this anime in pure code , no external asset , code and prompt below to verify \n\nthis is the RSI they were talking about, mind you this is one prompt\n\nTime : 39 min 16 s at 105 token/sec",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119699587724431360/img/k4F0yx1OknpZ_jRM.jpg",
+    "duration": 55.1
+  },
+  {
+    "id": "2119998815856218494",
+    "handle": "ChrisGPT",
+    "name": "Chris",
+    "url": "https://x.com/ChrisGPT/status/2119998815856218494",
+    "date": "2026-11-10",
+    "title": "Kinetic-type video about AI replacing video editors",
+    "titleZh": "关于 AI 取代视频剪辑师的动态排版短片",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 made a video telling editors that it’s going to take their job",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119998768925884416/img/axPRQGaCutCJ07Le.jpg",
+    "duration": 43.6
+  },
+  {
+    "id": "2119972124211454139",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2119972124211454139",
+    "date": "2026-11-10",
+    "title": "'90s toy commercial animated in Python and rendered in Blender",
+    "titleZh": "用 Python 制作动画、Blender 渲染的 90 年代玩具广告",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this 90's toy commercial\n\nEverything you see was made with code. Animated in Python and rendered in Blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119970272552095744/img/ZH2HGWtn-N8PCIHK.jpg",
+    "duration": 65
+  },
+  {
+    "id": "2120224530367119758",
+    "handle": "apekshik",
+    "name": "apek",
+    "url": "https://x.com/apekshik/status/2120224530367119758",
+    "date": "2026-11-10",
+    "title": "Procedurally rigged arm with IK, finger FK and grasping",
+    "titleZh": "带 IK、手指 FK 与抓取动作的程序化手臂骨骼绑定",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "instead of \"one-shoting\" a AAA game, i used fable 5.2 to rig and animate a single arm with extreme detail. try it out here: http://procedural-arm-rig.vercel.app\n\nit has realistic bone armature, accurate weight painted mesh, joints that keep their volume, and muscles that swell as the fist tightens. \n\nthe arm uses proper IK (inverse kinematics): you tell it where the hand should be and it solves the shoulder and elbow. \n\nthe fingers use proper FK (forward kinematics): each joint curls on its own, knuckle first, and stops the moment it touches something. so when it grabs a ball, the hand lines up over it first instead of driving straight in, then the fingers wrap around it joint by joint, and the thumb lands a beat after.\n\nthis is how we should be using these powerful models.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120224400691863552/img/mUPEtCTdUkLlRfzy.jpg",
+    "duration": 37.2
+  },
+  {
+    "id": "2119545009758462388",
+    "handle": "LuminaBench",
+    "name": "Lumina",
+    "url": "https://x.com/LuminaBench/status/2119545009758462388",
+    "date": "2026-11-08",
+    "title": "Drivable F1 car with race UI",
+    "titleZh": "可驾驶的 F1 赛车与比赛界面",
+    "category": "interactive",
+    "models": [
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "HOW TF IS GEMINI 4 HYDROGEN A FLASH MODEL\n\nThis is the new checkpoint on the drivable F1 car prompt, this took genuinely under 2 minutes (i'm not joking), the UI is so much better too, much more like an Anthropic model\n\nGoogle pls drop this",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119542877004902400/img/NyIzWnjSMM5pwtmw.jpg",
+    "duration": 63.3
   }
 ]

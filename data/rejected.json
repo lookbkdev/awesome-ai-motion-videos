@@ -558,5 +558,65 @@
     "id": "2119390399613509922",
     "handle": "kinderlayer",
     "reason": "photoreal footage, no sign it was made in code"
+  },
+  {
+    "id": "2119421242029772964",
+    "handle": "AI_Screening",
+    "reason": "second Gemini 4 Hydrogen vs 3.8 Flash clip, near-duplicate of listed one"
+  },
+  {
+    "id": "2119387132007780640",
+    "handle": "doe_naps",
+    "reason": "unidentified anonymous Arena model"
+  },
+  {
+    "id": "2119453449423323141",
+    "handle": "HarshithLucky3",
+    "reason": "creator unsure which model made it"
+  },
+  {
+    "id": "2120016433442865181",
+    "handle": "minchoi",
+    "reason": "repost without crediting the creator"
+  },
+  {
+    "id": "2120120672890274039",
+    "handle": "rewind02",
+    "reason": "repost of another developer's work (dev: Chetan Ankola)"
+  },
+  {
+    "id": "2119919053708144817",
+    "handle": "ChrisGPT",
+    "reason": "repost of another developer's game"
+  },
+  {
+    "id": "2119881447687569842",
+    "handle": "noclipepe",
+    "reason": "no model named"
+  },
+  {
+    "id": "2119804248368034063",
+    "handle": "maxt3chno",
+    "reason": "mesh from Tripo, rigged in Mesh2Motion; model only fixed flaws"
+  },
+  {
+    "id": "2120239112825491947",
+    "handle": "rewind02",
+    "reason": "ad for a tool"
+  },
+  {
+    "id": "2120211058426093739",
+    "handle": "rewind02",
+    "reason": "ad for a video model"
+  },
+  {
+    "id": "2120204122532061617",
+    "handle": "rewind02",
+    "reason": "ad for a tool"
+  },
+  {
+    "id": "2120160218663518541",
+    "handle": "socialwithaayan",
+    "reason": "AI UGC video, not made in code"
   }
 ]
