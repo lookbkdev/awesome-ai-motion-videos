@@ -3905,5 +3905,138 @@
     "text": "HOW TF IS GEMINI 4 HYDROGEN A FLASH MODEL\n\nThis is the new checkpoint on the drivable F1 car prompt, this took genuinely under 2 minutes (i'm not joking), the UI is so much better too, much more like an Anthropic model\n\nGoogle pls drop this",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119542877004902400/img/NyIzWnjSMM5pwtmw.jpg",
     "duration": 63.3
+  },
+  {
+    "id": "2120238844754923874",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+    "date": "2026-11-10",
+    "title": "Evensong: dark-fantasy boss fight playable in the browser",
+    "titleZh": "Evensong：可在浏览器里玩的暗黑奇幻 Boss 战",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nIt's a dark fantasy souls-like boss fight",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg",
+    "duration": 138
+  },
+  {
+    "id": "2119938129079808282",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2119938129079808282",
+    "date": "2026-11-09",
+    "title": "Storybook wanderer animation, every frame drawn in JavaScript",
+    "titleZh": "绘本风旅人动画短片，每一帧都用 JavaScript 绘制",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Every frame drawn with JavaScript by Claude Fable 5.2",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119937132647313408/img/4tio6thXqKE_g6ki.jpg",
+    "duration": 100
+  },
+  {
+    "id": "2120265921390621058",
+    "handle": "untitled_sys",
+    "name": "maggie",
+    "url": "https://x.com/untitled_sys/status/2120265921390621058",
+    "date": "2026-11-10",
+    "title": "Moody evening-room short built and rendered in Blender from one prompt",
+    "titleZh": "一条提示词在 Blender 中搭建并渲染的夜晚居室短片",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 basically built this entire short video in Blender from one prompt\n\nI only used a few follow-up prompts to tone down some sounds I didn't like in the music, and to render it out at the end\n\nSome visuals could definitely be improved over time - the look of the monstera leaf, the art in the room, curtains and windows etc - but it's pretty incredible it got this in one go 🤩",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120265887135715328/img/MicomaI0vZuM57oM.jpg",
+    "duration": 20.5
+  },
+  {
+    "id": "2120111159726727321",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120111159726727321",
+    "date": "2026-11-10",
+    "title": "Explorable sitcom apartment in three.js",
+    "titleZh": "可漫游的情景喜剧公寓（Three.js）",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 made monica apartment in @threejs \n\ni quoted my fable 5 post on the same prompt < this is the acceleration , feel it >\n\nthis is 5 month of change and you can see the details and work < see how outdated fable 5 looks in comparison>",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120110637703684097/img/RVrSaUH-Hb3y6-Ns.jpg",
+    "duration": 32.4
+  },
+  {
+    "id": "2120056914054942793",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2120056914054942793",
+    "date": "2026-11-10",
+    "title": "Floating pagoda island with koi pond and dragon-ride POV in three.js",
+    "titleZh": "Three.js 悬浮宝塔岛：喂锦鲤与骑龙视角",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "WTF, Fable-5.2 is on another level completely !!!\n\nYou all have seen pagoda floating island, but you have not seen this three.js pagoda floating island with dragon riding pov !!\n\nNo other model comes even close !!\n\nThis was made in one turn, via Claude web, and my prompt was simple \"Pagoda floating island, with a pond, and dragons + dragon pov\"\n\nIt continued without needing iteration and delivered this magestic beauty.\n\nThere are no flaws, you can click to feed the koi fishes, the lighting is amazing, the dragons are amazing, very well animated, smooth camera controls.\n\nAbsolute unit of a model this one !",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120056202994548736/img/gvO18SkTkPSe7OwK.jpg",
+    "duration": 145,
+    "prompt": "Pagoda floating island, with a pond, and dragons + dragon pov",
+    "promptUrl": "https://x.com/ItsmeAjayKV/status/2120056914054942793"
+  },
+  {
+    "id": "2119951015407738913",
+    "handle": "chetanankola",
+    "name": "Chetan Ankola",
+    "url": "https://x.com/chetanankola/status/2119951015407738913",
+    "date": "2026-11-10",
+    "title": "Wanderer at a hilltop lake, flying with a friendly dragon in three.js",
+    "titleZh": "Three.js 山顶湖畔的旅人，与友善巨龙一同飞翔",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 is improving this significantly but sooo much fun just to fly around with a friendly dragon\n\nmade with threejs , blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119948027108741120/img/KjyZWRJyfWwbi9xM.jpg",
+    "duration": 38.5
+  },
+  {
+    "id": "2120263729451552934",
+    "handle": "doe_naps",
+    "name": "Doe",
+    "url": "https://x.com/doe_naps/status/2120263729451552934",
+    "date": "2026-11-10",
+    "title": "Miniature Japanese garden explored from a butterfly's view",
+    "titleZh": "以蝴蝶视角漫游的微缩日式庭园",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Carbon"
+    ],
+    "text": "Gemini 4 Carbon made this little \"Fuji Garden\" 🌸🦋\n\n> explore from a butterfly's POV.. water reflections, tiny people going about their day, the whole garden feels alive \n\nposting this demo again while my other projects are still building.. still can't get over the tiny details🥹",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120260367087792128/img/qjPaI0wJCJc7awMV.jpg",
+    "duration": 89.1
+  },
+  {
+    "id": "2120151349924938083",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2120151349924938083",
+    "date": "2026-11-10",
+    "title": "Animated SVG pelican cycling through the seasons: Fable 5.2 vs Gemini 4 Hydrogen",
+    "titleZh": "四季骑车的 SVG 鹈鹕动画：Fable 5.2 对比 Gemini 4 Hydrogen",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Fable 5.2 vs Gemini 4 Hydrogen (Pelican SVG Test)\n\nsame prompt: create an svg of a pelican riding a bicycle across five animated seasons.\n\n• Fable 5.2 (high, Claude Code): ~25 mins, ~$25\n• Gemini 4 Hydrogen (Arena): ~5 mins, cost unknown.\n\nHydrogen held up surprisingly well against Fable and could be 10x cheaper than Fable when it launches. \n\nFable 5.2 did a really impressive job overall but is the extra detailing worth the cost?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120150652026269696/img/nVPnpwzRZ3dTJqRW.jpg",
+    "duration": 45,
+    "prompt": "create an svg of a pelican riding a bicycle across five animated seasons.",
+    "promptUrl": "https://x.com/marcthecreatorr/status/2120151349924938083"
   }
 ]

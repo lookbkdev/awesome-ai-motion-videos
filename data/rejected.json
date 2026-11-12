@@ -618,5 +618,30 @@
     "id": "2120160218663518541",
     "handle": "socialwithaayan",
     "reason": "AI UGC video, not made in code"
+  },
+  {
+    "id": "2120191754737455394",
+    "handle": "EnvolDev",
+    "reason": "same rocket launch-pad prompt already listed from this creator"
+  },
+  {
+    "id": "2119890973560054072",
+    "handle": "marcthecreatorr",
+    "reason": "same sailing-ship prompt already listed from this creator"
+  },
+  {
+    "id": "2120112222227648957",
+    "handle": "kinderlayer",
+    "reason": "does not say it was made in code"
+  },
+  {
+    "id": "2120157341102276769",
+    "handle": "luckeyfaraday",
+    "reason": "plain prop model, low visual interest"
+  },
+  {
+    "id": "2119896698281467952",
+    "handle": "maxt3chno",
+    "reason": "unfinished Blender viewport test"
   }
 ]
