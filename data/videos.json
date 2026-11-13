@@ -4038,5 +4038,136 @@
     "duration": 45,
     "prompt": "create an svg of a pelican riding a bicycle across five animated seasons.",
     "promptUrl": "https://x.com/marcthecreatorr/status/2120151349924938083"
+  },
+  {
+    "id": "2120198663062622581",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2120198663062622581",
+    "date": "2026-11-10",
+    "title": "Music video animated in Python and rendered in Blender",
+    "titleZh": "用 Python 动画、Blender 渲染的音乐视频",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Thank you @claudeai!\n\nClaude Fable 5.2 made this music video with code. Animated in Python and rendered in Blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120197953780613120/img/xqwqp-Vm_2GebEaj.jpg",
+    "duration": 77
+  },
+  {
+    "id": "2120179018964324566",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120179018964324566",
+    "date": "2026-11-10",
+    "title": "Pure-JavaScript animated short drawn in code",
+    "titleZh": "纯 JavaScript 代码绘制的动画短片",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 : artist inside llm , pure js",
+    "thumb": "https://pbs.twimg.com/media/HWxjguwb0AA3KPN.jpg",
+    "duration": 34.3
+  },
+  {
+    "id": "2119927838321328577",
+    "handle": "noclipepe",
+    "name": "noclipepe",
+    "url": "https://x.com/noclipepe/status/2119927838321328577",
+    "date": "2026-11-09",
+    "title": "Chrome Dino rebuilt as a Rambo game: Fable 5.2 vs Opus 5.5, Gemini 4 Carbon and GPT-6 Astra",
+    "titleZh": "把 Chrome 小恐龙做成《第一滴血》游戏：Fable 5.2 对比 Opus 5.5、Gemini 4 Carbon、GPT-6 Astra",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5",
+      "Gemini 4 Carbon",
+      "GPT-6 Astra"
+    ],
+    "text": "FABLE 5.2 TURNED THE CHROME DINO INTO RAMBO AND MOGGED EVERYONE 🥵\n\nI added Fable 5.2 to my old T-Rex test and it`s not even close\n\nFable 5.2 → 45m 30s · $14.77\nOpus 5.5 → 38m 55s · $8.53\nGemini 4 Carbon → 34m 41s · $5.20\nGPT-6 Astra → 15m · $4.61\n\nMy scores are at the end of the video",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119923874267607040/img/3L1LL6Id1yXrKHCY.jpg",
+    "duration": 27.1
+  },
+  {
+    "id": "2120948511038648596",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+    "date": "2026-11-12",
+    "title": "'80s music video animated in Python and rendered in Blender",
+    "titleZh": "Python 动画、Blender 渲染的 80 年代音乐视频",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this '80s music video\n\nEverything you see was made with code. Animated in Python and rendered in Blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120947367142981632/img/vY4DrsS94me7mFGU.jpg",
+    "duration": 138.5
+  },
+  {
+    "id": "2120540964909711415",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2120540964909711415",
+    "date": "2026-11-11",
+    "title": "Animated show intro built in Python and rendered in Blender",
+    "titleZh": "Python 动画、Blender 渲染的剧集片头",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this animated show intro\n\nEverything you see is code: animated in Python and rendered in Blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120540485764927488/img/ZlQ26R5ndNl5vcrG.jpg",
+    "duration": 45
+  },
+  {
+    "id": "2120438091647218025",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120438091647218025",
+    "date": "2026-11-11",
+    "title": "A tired pelican's 60-second hand-painted film in one HTML file",
+    "titleZh": "一只疲惫鹈鹕的 60 秒手绘风短片，单个 HTML 文件",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "everyone asks how well the model is making a pelican riding a bike svg\n\nbut no one is asking how the pelican feels with all this\n\nso i asked Fable 5.2 to make a film about it.\n\nhe’s the only pelican that came out right, and he’s tired of the road.\n\n60 seconds. hand-painted look. one html file. every pixel and every sound is code. no images, no audio files, no libraries.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120434492984942592/img/ZBm1CIvM4c8MLcSR.jpg",
+    "duration": 55.7
+  },
+  {
+    "id": "2120616372434837677",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120616372434837677",
+    "date": "2026-11-11",
+    "title": "Dawn chorus of nine physically modelled birds, all code, no samples",
+    "titleZh": "九只物理建模鸟鸣组成的黎明合唱，纯代码、无采样",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "claude fable 5.2 invented a musical form out of bird chirping\n\n9 physically modelled birds, all tuned to one note none of them sing… until a mourning dove wakes up and coos it\n\nreal dawn timing, real stars, 0 samples, all code",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120616202565480448/img/0ziey7fmgsuk-EkG.jpg",
+    "duration": 210.8
+  },
+  {
+    "id": "2120548065044234504",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120548065044234504",
+    "date": "2026-11-11",
+    "title": "Superman flying through the history of computer graphics in pure JavaScript",
+    "titleZh": "超人飞越计算机图形学历史：纯 JavaScript，从 1972 白方块到 2026 路径追踪",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "🚨 Fable 5.2 flew Superman through the whole history of computer graphics , \n\n1972 white blocks → 2026 path tracing < pure javascript , no images , no models , no video >",
+    "thumb": "https://pbs.twimg.com/media/HW2zFeIakAABh0z.jpg",
+    "duration": 40
   }
 ]
