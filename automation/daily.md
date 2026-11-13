@@ -2,6 +2,8 @@ You are updating the Awesome AI Motion Videos repository in the current director
 
 Goal: add up to 8 new, good pieces to `data/videos.json` today, then commit and push. If nothing qualifies, change nothing.
 
+Spread: at most 2 pieces from the same creator per day (`scripts/add.mjs` defers extras to `data/leads.json`). If search turns up little, look wider (other accounts, other models) rather than taking more from one creator.
+
 What qualifies (all must hold):
 - A public X post with a video or animated GIF.
 - The creator says an AI model made it, mostly in code: three.js, WebGL, canvas, SVG, Remotion, HyperFrames, Blender or a game engine driven by the model. Not plain AI video generation (Sora, Veo, Seedance, Kling) and not edited footage.

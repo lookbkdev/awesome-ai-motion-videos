@@ -18,12 +18,24 @@ const rejected = read('data/rejected.json')
 const meta = read('data/collection.json')
 const known = new Set([...videos.map((v) => v.id), ...rejected.map((r) => r.id)])
 const cands = JSON.parse(readFileSync(process.argv[2], 'utf8'))
+const leads = read('data/leads.json')
+// At most this many new pieces per creator per run; the rest wait in data/leads.json for a later day.
+// (11-12: search found nothing, so 7 of the 8 pieces came from two accounts.)
+const PER_CREATOR = Number(process.env.AWESOME_PER_CREATOR ?? 2)
+const perCreator = new Map()
 
 let added = 0
 for (const c of cands) {
   const tag = `@${c.handle}/${c.id}`
   if (known.has(c.id)) { console.log(`skip ${tag}: already listed or rejected`); continue }
   if (c.reject) { rejected.push({ id: c.id, handle: c.handle, reason: c.reject }); known.add(c.id); console.log(`reject ${tag}: ${c.reject}`); continue }
+  const who = String(c.handle).toLowerCase()
+  if ((perCreator.get(who) ?? 0) >= PER_CREATOR) {
+    const lead = `${c.handle}/${c.id}`
+    if (!leads.includes(lead)) leads.push(lead)
+    console.log(`defer ${tag}: ${PER_CREATOR} from this creator already today, kept in leads`)
+    continue
+  }
   const res = await fetch(`https://api.fxtwitter.com/${c.handle}/status/${c.id}`)
   if (!res.ok) { console.log(`skip ${tag}: fxtwitter ${res.status}`); continue }
   const tw = (await res.json()).tweet
@@ -39,6 +51,7 @@ for (const c of cands) {
   if (media.duration) entry.duration = Math.round(media.duration * 10) / 10
   if (c.prompt) { entry.prompt = c.prompt; entry.promptUrl = c.promptUrl }
   videos.push(entry); known.add(c.id); added++
+  perCreator.set(who, (perCreator.get(who) ?? 0) + 1)
   console.log(`add ${tag}: ${c.title}`)
 }
 
@@ -46,5 +59,6 @@ if (added) meta.updated = new Date().toISOString().slice(0, 10)
 write('data/videos.json', videos)
 write('data/rejected.json', rejected)
 write('data/collection.json', meta)
+write('data/leads.json', leads)
 execFileSync('node', [new URL('scripts/build.mjs', root).pathname], { stdio: 'inherit' })
 console.log(`${added} added`)
