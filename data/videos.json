@@ -4169,5 +4169,137 @@
     "text": "🚨 Fable 5.2 flew Superman through the whole history of computer graphics , \n\n1972 white blocks → 2026 path tracing < pure javascript , no images , no models , no video >",
     "thumb": "https://pbs.twimg.com/media/HW2zFeIakAABh0z.jpg",
     "duration": 40
+  },
+  {
+    "id": "2121296570872107145",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2121296570872107145",
+    "date": "2026-11-13",
+    "title": "Three.js yacht simulator with no 3D models",
+    "titleZh": "不用任何 3D 模型的 Three.js 游艇模拟器",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "Almost started learning to code a year ago... glad I waited\n\nwhy spend months on learning syntax when Fable 5.2 + Opus 5.5 can execute any idea in 1 hour?\n\nbuilt this Three.js yacht simulator with zero 3D models:\n\n- Fable 5.2: yacht physics, simulator mechanics, and logic\n- Opus 5.5: textures and lighting (water and sky from my other project also cooked by Opus)\n\nliterally just ONE Claude subscription and anyone can cook with zero coding experience",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121295707931893760/img/sOHG_15Ht6xjaoTj.jpg",
+    "duration": 95.9
+  },
+  {
+    "id": "2121200332927578188",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2121200332927578188",
+    "date": "2026-11-13",
+    "title": "Ford Mustang built in Blender: Fable 5.2 vs Opus 5.5",
+    "titleZh": "Blender 建模福特野马：Fable 5.2 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "Fable 5.2 is 4x more expensive than Opus 5.5 in Blender, BUT is it 4x better?\n\nran both on High with the exact same \"3D Ford Mustang\" prompt:\n\nFable won on quality, but Opus cooked 2x faster and 4x cheaper\n\nwhich one would you pick?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121199301783076864/img/hcKhRTCH2Akt3q1r.jpg",
+    "duration": 21.2
+  },
+  {
+    "id": "2121216070375612527",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2121216070375612527",
+    "date": "2026-11-13",
+    "title": "Hand-painted animated-film valley you can walk through",
+    "titleZh": "可漫步的手绘动画电影风山谷",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "build a hand-painted animated-film valley you can walk through, with Fable 5.2 + Blender + Three.js..\n\nthe land and sky are made in code, and the painted look comes from how each part is drawn\n\nhere’s the workflow:\n\n- step 1: claude code + fable 5.2: set up three.js and rapier with a third-person walker\n- step 2: build the valley from a height map: meadow, river, lake, village\n- step 3: pick one flat palette, with a lit and a shade tone per color\n- step 4: paint the grass with brush strokes and make it bend underfoot\n- step 5: bake the mountains and clouds once into painted textures\n- step 6: build the houses from simple shapes, with details in the shader\nstep 7: blender + mcp: build the wanderer (straw hat, cloak), rig and animate him, export glb\n- step 8: three.js: load the glb and cel-shade it with an ink outline\n- step 9: add a kuwahara paint pass, time of day and sounds, then test fps with playwright\n\nwho does what:\n\n> fable 5.2: the land, the shaders, the renderer\n> blender: the character, the rig, the animations\n> three.js + rapier: rendering and movement\nyou: the art direction\n\nfewer tones, less detail. paint looks like paint because of what’s left out",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121215994832068608/img/Z1yH0T-1oaxIf7E2.jpg",
+    "duration": 22.8
+  },
+  {
+    "id": "2120846734901367105",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2120846734901367105",
+    "date": "2026-11-12",
+    "title": "Rigged and animated stylized hero with swinging skirt and bow, built in Blender",
+    "titleZh": "在 Blender 中建模绑定的风格化角色，裙摆与蝴蝶结随步摆动",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "built and animated a stylized hero in Blender + Claude Opus 5.5..\n\na girl in a black floral dress with a wide white sun hat\n\nthe trick is rigging the cloth, not just the body. here’s the workflow:\n\n- step 1: connect opus 5.5 to blender via mcp, send front, side and back concepts\n- step 2: prompt: “build this hero part by part: bob haircut, wide sun hat, puff-sleeve floral dress, white sash with a back bow, white boots”\n- step 3: blockout: big head, small body, a bell-shaped skirt\n- step 4: layer the outfit: dress > sash and bow > boots > hat\n- step 5: rig it with extra bone chains in the skirt and the bow ribbons\n- step 6: animate one clip at a time: idle with a blink > turn > walk\n- step 7: add follow-through: the skirt flares and the bow lags behind on turns\n- step 8: review scene: grey floor, fixed camera, the back-view concept in the corner, fix one thing per prompt\n\nthe bow and the skirt swing are what sell the walk",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120846696875757568/img/oPinOHoug2VVcQ0d.jpg",
+    "duration": 4
+  },
+  {
+    "id": "2121221667619852660",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2121221667619852660",
+    "date": "2026-11-13",
+    "title": "Same-prompt 3D ship: Sonnet 5.5 vs Gemini 4 Hydrogen",
+    "titleZh": "同提示词 3D 帆船：Sonnet 5.5 对比 Gemini 4 Hydrogen",
+    "category": "comparison",
+    "models": [
+      "Sonnet 5.5",
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Sonnet 5.5 > Gemini 4 Hydrogen\n\nI gave both models the same prompt at extra high reasoning and the two ships came out nothing alike\n\n> sonnet 5.5 took ~32 mins and cost ~$2.60 in claude code\n> hydrogen took ~15 mins and cost ~$1.2 via Cursor\n\nHydrogen finished in half the time, but the first pass needed a V2 before I got an output I could use. \n\nSonnet 5.5 is still one of the most creative models for 3D coding.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121221429853134848/img/tmfLYkezKWakHyki.jpg",
+    "duration": 54.4
+  },
+  {
+    "id": "2120956699951628637",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2120956699951628637",
+    "date": "2026-11-12",
+    "title": "Animated SVG of a girl and her cat on a tandem bike: Gemini 4 Hydrogen vs Opus 5.5",
+    "titleZh": "SVG 动画：女孩和猫骑双人自行车，Gemini 4 Hydrogen 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Hydrogen",
+      "Opus 5.5"
+    ],
+    "text": "Gemini 4 Hydrogen vs Opus 5.5 (Tandem Ride SVG)\n\nsame prompt: create an SVG of a girl and her cat on joined bikes, golden hour, ghibli style\n\n• opus 5.5 in claude code:  ~1 hr, ~$18 api cost\n• gemini 4 hydrogen in cursor: ~15 mins, ~$0.9 api cost\n\nopus took its time with the detailing (night mode, music) while hydrogen got the whole scene done faster for less than a dollar. \n\nwhich model did it better?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120956511706820608/img/--IRgcT_lAngEvPo.jpg",
+    "duration": 27.6
+  },
+  {
+    "id": "2120308118127309173",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2120308118127309173",
+    "date": "2026-11-11",
+    "title": "'90s cereal commercial drawn entirely in code",
+    "titleZh": "全程用代码绘制的 90 年代麦片广告",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Thanks for the feature, @claudeai!\n\nFable 5.2 made this '90s cereal commercial, all drawn in code",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120306941243314176/img/ukK6tbrQTbLUqyZj.jpg",
+    "duration": 64
+  },
+  {
+    "id": "2120464199096885739",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120464199096885739",
+    "date": "2026-11-11",
+    "title": "Mona Lisa painted in pure JavaScript",
+    "titleZh": "纯 JavaScript 绘制的蒙娜丽莎",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Drawing Monalisa with pure code with Fable 5.2 in JS",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120464110202900480/img/Kg0xmBtkeO8IhgvU.jpg",
+    "duration": 16.3
   }
 ]

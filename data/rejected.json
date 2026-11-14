@@ -643,5 +643,15 @@
     "id": "2119896698281467952",
     "handle": "maxt3chno",
     "reason": "unfinished Blender viewport test"
+  },
+  {
+    "id": "2121353550437761261",
+    "handle": "luckeyfaraday",
+    "reason": "T-Rex 3D test comparison; method unclear and mostly cost stats, low engagement"
+  },
+  {
+    "id": "2120831441701314719",
+    "handle": "maxt3chno",
+    "reason": "Built on Tripo-generated meshes and ends in a referral link; not mostly code"
   }
 ]
