@@ -4301,5 +4301,134 @@
     "text": "Drawing Monalisa with pure code with Fable 5.2 in JS",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120464110202900480/img/Kg0xmBtkeO8IhgvU.jpg",
     "duration": 16.3
+  },
+  {
+    "id": "2121701020598415465",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2121701020598415465",
+    "date": "2026-11-14",
+    "title": "Side-scrolling RPG drawn entirely in code",
+    "titleZh": "全程用代码绘制的横版 RPG 游戏",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nIt's a side-scrolling RPG with all visuals drawn with code: no image model or pre-made art assets used",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121679674543890432/img/eGoaKNtrmFtjFM5k.jpg",
+    "duration": 105
+  },
+  {
+    "id": "2119900487688622171",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+    "date": "2026-11-09",
+    "title": "Gilt & Gutter: a 1v1 first-person shooter in the browser",
+    "titleZh": "《Gilt & Gutter》：浏览器里的 1v1 第一人称射击游戏",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nGilt & Gutter is a 1v1 first-person shooter with two playable characters",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119899054520061952/img/5AHKPQpLbKV5Hi0o.jpg",
+    "duration": 60
+  },
+  {
+    "id": "2121176151234330707",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2121176151234330707",
+    "date": "2026-11-13",
+    "title": "Three.js scene with no external assets",
+    "titleZh": "不含任何外部素材的 Three.js 场景",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 can achieve this with @threejs < no external assets at all>",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121175618289389568/img/BAXUrLJWndARkPqq.jpg",
+    "duration": 85.3
+  },
+  {
+    "id": "2120500937852920144",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2120500937852920144",
+    "date": "2026-11-11",
+    "title": "Fictional characters built in Three.js",
+    "titleZh": "用 Three.js 做出的虚构角色合集",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 with @threejs made all my fav fictional character",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120500565855842304/img/0lAv9K2pvj8sXrWt.jpg",
+    "duration": 20
+  },
+  {
+    "id": "2121575140307706285",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2121575140307706285",
+    "date": "2026-11-14",
+    "title": "Walkable oil-painting world with brush-stroke shaders",
+    "titleZh": "可漫步的油画世界：笔触着色器",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "build a walkable oil-painting world with claude Fable 5.2 + Three.js...\n\nthe trick is painting the world with brush strokes, not filtering a finished frame\n\nhere’s the workflow:\n\n- step 1: fable 5.2: prompt it to set up a three.js 0.186 + webgl2 scene with a third-person camera\n- step 2: rapier: add physics for walking, sprinting and jumping on the terrain\n- step 3: makehuman: drop in the base character from the patch starter kit\n- step 4: quaternius animation library + patch clips: add idle, walk, run and jump\n- step 5: fable 5.2 + custom glsl shaders: turn every object into brush strokes with 3 paint colors\n- step 6: glsl shaders: add lighting, fog, falling snow and the glowing aurora\n- step 7: fable 5.2: build the snowy ridge, spruces and cabin out of strokes\n- step 8: http://patch.gg: publish the playable demo and the open-source code\n\nwho does what:\n\n> Fable 5.2: writes the scene and the shaders\n> Three.js: renders it in the browser\n> GLSL shaders: the oil-paint look\n> Rapier: physics\n> MakeHuman + Quaternius: the character and its animations\n> Patch gg: publishing\n\nstroke order can never depend on the camera. if it does, the paint crawls every time you move",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121575069314875392/img/lG1P2B2Ry0A_91E3.jpg",
+    "duration": 16.1
+  },
+  {
+    "id": "2121627795566567577",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2121627795566567577",
+    "date": "2026-11-14",
+    "title": "Explorable 3D harbour built from a single illustration",
+    "titleZh": "由一幅插画生成的可探索 3D 港口",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "3D harbour in the browser with Opus 5.5 + Blender + Three.js..\n\nit started from a single drawing\n\nmatching the illustration first, then making it explorable. here’s the workflow:\n\n- step 1: pick one illustration as the target, and lock the camera to its exact angle\n- step 2: blender + mcp: have opus block out the stack from the drawing: pier, stilts, floors, stairs\n- step 3: blender: opus builds the details in layers: rooftops > shopfronts > waterline > the stair\n- step 4: blender: assign flat stylized materials, then export one glb\n- step 5: three.js: opus loads the glb and adds teal water with ripples and reflections\n- step 6: three.js: warm emissive windows, string lights and lanterns with bloom\n- step 7: three.js: time of day toggles (dusk, day, rain, night) and drifting gulls\n- step 8: three.js: camera modes: orbit, walk around the pier, steer the boat\n- step 9: add the life: little robots wandering the piers and boats leaving wakes\n\nif it doesn’t look right from the reference camera, it won’t look right anywhere",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121627711550398464/img/b_h9PfLKTmZsKa5j.jpg",
+    "duration": 25.4
+  },
+  {
+    "id": "2120479775764459951",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2120479775764459951",
+    "date": "2026-11-11",
+    "title": "Voxel Floating Kingdom: Gemini 4 Carbon vs Opus 5.5",
+    "titleZh": "体素浮空王国：Gemini 4 Carbon 对 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Carbon",
+      "Opus 5.5"
+    ],
+    "text": "Gemini 4 Carbon vs Opus 5.5\n\ntested both with the same prompt [Voxel Floating Kingdom]\n\n• Opus 5.5: high reasoning, 1h 15m, ~$12\n• Gemini 4 Carbon: high reasoning, 1h 15m, ~$0.95\n\nat that price difference, Carbon is looking like the better deal. but which model actually did better here?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120477994527391744/img/Xf2Zn7kQpJ1y4o3-.jpg",
+    "duration": 58.5
+  },
+  {
+    "id": "2120534514552221821",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2120534514552221821",
+    "date": "2026-11-11",
+    "title": "Cozy fireplace scene in three.js with code-made sound",
+    "titleZh": "Three.js 温馨壁炉场景，音效也由代码生成",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "I could watch this scene for hours... Fable 5.2, what did you just cook??\n\nasked it for a simple \"fireplace simulator\" and it built a whole cozy scene\n\nruns in three.js, even the sounds are pure code\n\n42 minutes and 1% of my Max plan quota. worth it?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120532744513970176/img/w3r001BU1TuqoiHR.jpg",
+    "duration": 77.1
   }
 ]
