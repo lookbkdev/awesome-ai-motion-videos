@@ -4430,5 +4430,138 @@
     "text": "I could watch this scene for hours... Fable 5.2, what did you just cook??\n\nasked it for a simple \"fireplace simulator\" and it built a whole cozy scene\n\nruns in three.js, even the sounds are pure code\n\n42 minutes and 1% of my Max plan quota. worth it?",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120532744513970176/img/w3r001BU1TuqoiHR.jpg",
     "duration": 77.1
+  },
+  {
+    "id": "2121885449509851415",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2121885449509851415",
+    "date": "2026-11-15",
+    "title": "Pelican on a bike riding through changing art styles, with coded music",
+    "titleZh": "骑车的鹈鹕穿越多种画风，配乐也由代码生成",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Carbon",
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Gemini 4 Carbon with Hydrogen swarm < best thing ever you can do with Antigravity >\n\nThis art piece is pure code , JS only\npelican riding a bike from one art style < emotion > to the other\n\n> music + every sound is code too \n\nNow my pro subscription limit is reached lol 😅",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121884080593891328/img/wZ-OMut-QRru3s9j.jpg",
+    "duration": 109.7
+  },
+  {
+    "id": "2121737343287828694",
+    "handle": "LexnLin",
+    "name": "Leon Lin",
+    "url": "https://x.com/LexnLin/status/2121737343287828694",
+    "date": "2026-11-14",
+    "title": "Colorful little city built in three.js with no assets",
+    "titleZh": "纯代码搭建的多彩 three.js 小城市",
+    "category": "3d",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 built a little city in threejs and the colors look INSANE\n\nno assets were used, everything is code (except sound)",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121736588514197504/img/FBtrV7uNJnyuAcoz.jpg",
+    "duration": 60
+  },
+  {
+    "id": "2121714155757441227",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2121714155757441227",
+    "date": "2026-11-14",
+    "title": "Seaplane simulator: coded Three.js model next to a Blender mesh",
+    "titleZh": "水上飞机模拟器：Three.js 代码模型与 Blender 网格同屏对照",
+    "category": "3d",
+    "models": [
+      "Opus 5.5",
+      "Fable 5.2"
+    ],
+    "text": "Haters said \"nobody builds in Three.js\"\nOkay... explain this:\n\nhow can a coded model be on par with a 3D mesh cooked in Blender??\n\nTop is Three.js\nBottom is Blender\n\nwater, sky, and all the simulator mechanics = built via Opus 5.5 + Fable 5.2 too\n\nquestions?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121713738914942976/img/3cuNxGPghDL3brYh.jpg",
+    "duration": 52.2
+  },
+  {
+    "id": "2121261917016903748",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2121261917016903748",
+    "date": "2026-11-13",
+    "title": "Animated short with every frame drawn in JavaScript",
+    "titleZh": "每一帧都用 JavaScript 绘制的动画短片",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Every frame drawn with JavaScript by Claude Fable 5.2",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121260777667735552/img/7KhXDEtq9b5e8arC.jpg",
+    "duration": 80
+  },
+  {
+    "id": "2121343522318274958",
+    "handle": "ChrisGPT",
+    "name": "Chris",
+    "url": "https://x.com/ChrisGPT/status/2121343522318274958",
+    "date": "2026-11-13",
+    "title": "Wind-up cowboy toy in a cardboard western town, Python-driven Blender",
+    "titleZh": "纸板西部小镇里的发条牛仔玩具，Python 驱动 Blender 渲染",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Fable 5.2 animated and rendered a little wind-up cowboy toy as a test to see how high quality I could push the model with not a lot of effort.\n\nEven though I directed it, Fable 5.2 built every frame. character, cardboard western town, fur, felt, the mustache blow, all Python driving Blender\n\n10 seconds, 4K, rendered on a 3070. ~2 min per frame. Few Shot.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121343472368074752/img/jhtGcT4FbrEL1Df0.jpg",
+    "duration": 10.5
+  },
+  {
+    "id": "2121991760825995575",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2121991760825995575",
+    "date": "2026-11-15",
+    "title": "Painted 3D walk that shifts from gouache to oil paint at sunset",
+    "titleZh": "日落时由水粉变成油画的手绘风 3D 漫步场景",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "build a painted 3D world in the browser with Opus 5.5 + Three.js,,,\n\nevery frame looks painted, and when the sun goes down it turns from gouache into oil paint\n\nhere’s the workflow:\n\n- step 1: opus 5.5: “plan a walk: forest path > open hill > sunset over the sea”\n- step 2: three.js: opus builds the terrain, path and sea from code, with no models\n- step 3: three.js: procedural trees, grass and flowers with InstancedMesh\n- step 4: three.js: the hero props from basic shapes: blossom tree, floating islands, kid, kite\n- step 5: custom shaders: god rays, fog, birds, fireflies and kite string sway\n- step 6: custom shaders: a paint post-pass that turns every frame into brushstrokes\n- step 7: custom shaders: tie the brush style to sun height: gouache by day, oil at sunset\n- step 8: three.js: a camera path along the walk, with the sun setting as you go \n\nwho does what:\n\n> opus 5.5: writes every mesh, shader and camera move\n> three.js: renders the world\n> the paint shader: makes it look like a painting\n> you: judge each frame like a painting, not a game\n \nthe brushstrokes hide what code-built shapes can’t fake",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121991666647109632/img/HIpRXCV-OiPDt3Fl.jpg",
+    "duration": 28
+  },
+  {
+    "id": "2121326233044537688",
+    "handle": "noclipepe",
+    "name": "noclipepe",
+    "url": "https://x.com/noclipepe/status/2121326233044537688",
+    "date": "2026-11-13",
+    "title": "Up-style balloon house: same prompt across four models",
+    "titleZh": "《飞屋》风气球小屋：同一提示词四个模型对比",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5",
+      "Gemini 4 Carbon",
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "$19 FABLE 5.2 VS $1 GEMINI 4 HYDROGEN ON MY UP HOUSE TEST \n\nSame prompt. Same reference. XHigh. One shot.\n\n· Fable 5.2: 45m 44s · $19.10\n· Opus 5.5: 36m 46s · ~$4.20\n· Gemini 4 Carbon: 24m 45s · ~$1.90\n· Gemini 4 Hydrogen: 12m 49s · ~$1.09\n\nFable built the best house I've ever gotten on this test. Hydrogen built the haunted version \n\nWas it worth 18x the price?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121325889690460160/img/Ej_0aw6X-YRrAMZ9.jpg",
+    "duration": 36.1
+  },
+  {
+    "id": "2121939161812697367",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2121939161812697367",
+    "date": "2026-11-15",
+    "title": "One-shot autumn forest pond with koi, ripples and falling leaves",
+    "titleZh": "一次生成的秋日林间池塘：锦鲤、涟漪与落叶",
+    "category": "3d",
+    "models": [
+      "Qwen4-Max-Preview"
+    ],
+    "text": "Qwen4-max-preview one-shot pond in the middle of an autumn forest !\n\nQwen models always seems to get water texture really well, starting with 3.8 and it shows up here as well. \n\nThe flies, falling leaves, koi fish and ripples in lake all makes gives this scene more life.\n\nThe forest in background with light coming in is a nice touch. Time skip controls are also nice.\n\nOne-shot, no harness, no tool calls, total 100,243 tokens.\n\nAround 30min via api, 53 tok/s on avg.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121937352197386240/img/SzGgQgFs_CEnQ-Dz.jpg",
+    "duration": 98.2
   }
 ]
