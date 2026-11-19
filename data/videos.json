@@ -4563,5 +4563,107 @@
     "text": "Qwen4-max-preview one-shot pond in the middle of an autumn forest !\n\nQwen models always seems to get water texture really well, starting with 3.8 and it shows up here as well. \n\nThe flies, falling leaves, koi fish and ripples in lake all makes gives this scene more life.\n\nThe forest in background with light coming in is a nice touch. Time skip controls are also nice.\n\nOne-shot, no harness, no tool calls, total 100,243 tokens.\n\nAround 30min via api, 53 tok/s on avg.",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121937352197386240/img/SzGgQgFs_CEnQ-Dz.jpg",
     "duration": 98.2
+  },
+  {
+    "id": "2122095074968469720",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2122095074968469720",
+    "date": "2026-11-15",
+    "title": "Hand-painted animated film in pure canvas code, with Web Audio sound",
+    "titleZh": "纯 canvas 代码绘制的手绘风动画短片（含 Web Audio 音效）",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Carbon"
+    ],
+    "text": "Gemini 4 Carbon : hand painted film with pure code\n\n> zero images / zero libraries / zero assets\n> every frame is canvas code , every sound is Web Audio code\n\nThis is video gen level more artistic control",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122093610007134208/img/iXDqNebEZFsiIyb8.jpg",
+    "duration": 52.4
+  },
+  {
+    "id": "2121934071429468543",
+    "handle": "LexnLin",
+    "name": "Leon Lin",
+    "url": "https://x.com/LexnLin/status/2121934071429468543",
+    "date": "2026-11-15",
+    "title": "Valle Morta: a browser FPS built with no pre-made 3D assets",
+    "titleZh": "Valle Morta：不用任何现成 3D 素材、全靠代码的浏览器 FPS",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "I built this fps with Fable 5.2 over the last 2 days\n\nno pre-made 3d assets were used! everything you see is made with code\n\nhttps://valle-morta.vercel.app/",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121932247418781696/img/_s7lHFdK3-GkQAxM.jpg",
+    "duration": 45
+  },
+  {
+    "id": "2121565599629271069",
+    "handle": "kinderlayer",
+    "name": "Kinder",
+    "url": "https://x.com/kinderlayer/status/2121565599629271069",
+    "date": "2026-11-14",
+    "title": "Single-cylinder engine cross-section, same prompt on four models",
+    "titleZh": "单缸发动机剖面动画：同一提示词四个模型对比",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "GPT-6 Astra",
+      "Gemini 4 Carbon",
+      "Gemini 4 Argon"
+    ],
+    "text": "this is f*cking ridiculous - one of these four cost way more to run than the rest.\n\nsame prompt, four models, a single-cylinder engine firing in cross-section. fuel flowing, piston pumping, valves snapping shut.\n\nClaude Fable 5.2 · GPT-6 Astra · Gemini 4 Carbon · Gemini 4 Argon\n\none nailed the fuel spray and the timing. one went clean and surgical. one wrapped the whole thing in carbon. one got weird with the intake trumpets.\n\nthe catch: the sharper the model, the more it burns to run. I didn’t touch a single frame and I’m not telling you which one costs the most - you call it: which engine looks like the one actually worth paying for?\n\ndrop your pick",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121565553290539008/img/tuJi3KAR6Z30ilnj.jpg",
+    "duration": 12.1
+  },
+  {
+    "id": "2121694741590859786",
+    "handle": "ChrisGPT",
+    "name": "Chris",
+    "url": "https://x.com/ChrisGPT/status/2121694741590859786",
+    "date": "2026-11-14",
+    "title": "Toy-town animation: cardboard western vs. army men, built in code and rendered in Blender",
+    "titleZh": "玩具小镇动画：纸板西部镇 vs 塑料兵人，代码驱动 Blender 渲染",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "here's the Fable 5.2 animation with both perspectives of the toys 🤠🪖\n\nBix strolls through his cardboard western town while a squad of army men sneaks around behind the walls hiding from him\nevery character, set, sound and frame built in code, rendered in 4K on my 3070\n\nThis is my first time co-working on an animation in blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121694680429539328/img/r4C3rJ_zEkXizFjw.jpg",
+    "duration": 15.2
+  },
+  {
+    "id": "2121508105947320688",
+    "handle": "doe_naps",
+    "name": "Doe",
+    "url": "https://x.com/doe_naps/status/2121508105947320688",
+    "date": "2026-11-14",
+    "title": "Tiny WW2 airfield diorama with a working plane and tank, in one HTML file",
+    "titleZh": "二战机场微缩场景：单个 HTML 文件，飞机和坦克都能操作",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Gemini 4 Hydrogen built this tiny WW2 airfield diorama in just one shot in a single html file\n\n> all I gave it was a few references and a simple prompt.. build a 3d experience where the plane and tank actually work",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121481603432189952/img/8-ATa9zxTqElwm0t.jpg",
+    "duration": 111.5
+  },
+  {
+    "id": "2122010232247419163",
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy",
+    "url": "https://x.com/AI_Screening/status/2122010232247419163",
+    "date": "2026-11-15",
+    "title": "three.js galloping horse, four models compared",
+    "titleZh": "three.js 奔马动画：四个模型对比",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Gemini 4 Carbon",
+      "Gemini 4 Argon",
+      "Gemini 4 Hydrogen"
+    ],
+    "text": "Fable 5.2 vs Carbon vs Argon vs Hydrogen: three.js Horse Galloping Comparison",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122010021278240769/img/iOG3Y34IPw5x5uTo.jpg",
+    "duration": 17.5
   }
 ]
