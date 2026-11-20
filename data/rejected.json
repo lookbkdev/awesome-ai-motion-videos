@@ -698,5 +698,20 @@
     "id": "2121780322106999106",
     "handle": "kevin_t_ngo",
     "reason": "AI streamer agent playing an itch.io game; not a code-rendered visual piece"
+  },
+  {
+    "id": "2119928918035910668",
+    "handle": "higgsfield_ai",
+    "reason": "tool promo (built with Higgsfield), not a clean code-only piece"
+  },
+  {
+    "id": "2120926306930209095",
+    "handle": "vibelancer",
+    "reason": "repost explaining someone else's project, not the creator's own work"
+  },
+  {
+    "id": "2102569255657259036",
+    "handle": "edwinhayward",
+    "reason": "plain one-shot test, low effort"
   }
 ]
