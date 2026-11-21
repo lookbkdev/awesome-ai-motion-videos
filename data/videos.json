@@ -4779,5 +4779,122 @@
     "text": "Kimi K3.1 Pro vs DeepSeek V4.1 Flash, head-to-head on a running V8 engine built in Three.js, both on max effort.\n\nBoth built working 3D simulations with RPM controls, combustion, cutaway views and part inspection.\n\nBut the numbers are wild:\n\nDeepSeek: 67.2M tokens, $0.86\nKimi: 3.5M tokens, $2.16\nKimi used 19x fewer tokens and finished in 31 mins. DeepSeek ran for 48 mins before I stopped it while it was still refining.\n\nKimi has the more polished UI, while DeepSeek has the more detailed dyno cell.\n\nAnd somehow, DeepSeek was cheaper despite using way more tokens, thanks to 66.7M cached input tokens.",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114664072767803392/img/o_BJQryEiBBp-FPw.jpg",
     "duration": 56.3
+  },
+  {
+    "id": "2123772997328576587",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2123772997328576587",
+    "date": "2026-11-20",
+    "title": "Voxel dragon and pagoda diorama: Gemini 4 Neon vs Opus 5.5",
+    "titleZh": "体素巨龙与宝塔场景：Gemini 4 Neon 对 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Neon",
+      "Opus 5.5"
+    ],
+    "text": "gemini 4 neon vs opus 5.5\n\nsame prompt: build an interactive 3d voxel dragon and pagoda diorama with zero external assets.\n\n• neon: 11 mins, 3.1m tokens, ~$1.6\n• opus: 50 mins, 7m tokens, ~$7\n\nopus did better on the dragon itself, but i really liked the pagoda and night lighting neon came up with.\n\nthe speed to quality ratio on neon is really impressive.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123772731753742337/img/RjiVRQmzEMMnQzII.jpg",
+    "duration": 47.1,
+    "prompt": "build an interactive 3d voxel dragon and pagoda diorama with zero external assets.",
+    "promptUrl": "https://x.com/marcthecreatorr/status/2123772997328576587"
+  },
+  {
+    "id": "2123058963197362606",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2123058963197362606",
+    "date": "2026-11-18",
+    "title": "Minecraft clone with castles, waterwheel and day/night cycle",
+    "titleZh": "带城堡、水车和昼夜循环的 Minecraft 复刻",
+    "category": "interactive",
+    "models": [
+      "GPT-6.2 Astra"
+    ],
+    "text": "First look at GPT-6.2 Astra: Minecraft Clone\n\na working minecraft clone featuring castles, lanterns, waterwheel, day/night cycle and flight mode.\n\nAstra (xhigh): 78 mins, 5.18M+ tokens, ~$5.69 in api cost \n\nthese are what i’ve noticed in my tests so far, along with feedback from others:\n\n> world class at 3D coding and game builds\n> excellent at computer use\n> significantly cheaper than 6.1 Astra\n> slow, painfully slow (needs to be fixed) \n> gets stuck in loops during long tasks\n> occasionally cuts corners and ignores instructions\n\nhow has your experience with GPT-6.2 Astra so far?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123058287004229632/img/YMOoISbonTOve2AP.jpg",
+    "duration": 65
+  },
+  {
+    "id": "2123194632670748790",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2123194632670748790",
+    "date": "2026-11-18",
+    "title": "San Francisco animation drawn entirely in code",
+    "titleZh": "全程用代码绘制的旧金山动画",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "SF - animation drawn in code by Fable 5.2",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123194491612045312/img/B3pglLIBykWyf3w_.jpg",
+    "duration": 51.5
+  },
+  {
+    "id": "2122215593382457738",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2122215593382457738",
+    "date": "2026-11-16",
+    "title": "'90s toy commercial animated in Python and rendered in Blender",
+    "titleZh": "Python 驱动、Blender 渲染的 90 年代玩具广告",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Claude Fable 5.2 made this '90s toy commercial\n\nEverything you see was made with code. Animated in Python and rendered in Blender",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122214524615114752/img/fOQvNzL3KoOH26ai.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2123157986713747468",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2123157986713747468",
+    "date": "2026-11-18",
+    "title": "Jet ski racing scene built in five hours",
+    "titleZh": "五小时做出的水上摩托场景",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Which jet ski runs smoother: GTA 6 or Claude Fable 5.2?\n\n- Rockstar burned 13 years and $2 billion\n- I burned 5 hours and 10% ($2.5) of my weekly Claude Max quota \n\ngive me just $999,999,990, and I'll build GTA 7 solo with AI in 10 years",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123157335400996864/img/RZsuwHKfCAUV_KXg.jpg",
+    "duration": 25.5
+  },
+  {
+    "id": "2123064075802296326",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2123064075802296326",
+    "date": "2026-11-18",
+    "title": "Playable warships mini-game with fully procedural 3D",
+    "titleZh": "全程序化 3D 的可玩战舰小游戏",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5",
+      "GPT-6.2 Astra",
+      "GPT-6.2 Sol"
+    ],
+    "text": "I ran Opus 5.5 and GPT 6.2 in parallel like a 2-man game studio\n\n2 hours later, they cooked a playable warships mini-game in my browser with zero external 3D models:\n\n- Opus 5.5: procedural ship, custom water/sky shaders, ship physics, and shooting mechanics\n- GPT 6.2 Astra/Sol: procedural planes, flight + attack logic, and bug fixes\n\njust a raw demo, but it's wild that you need zero coding skills to make something like this now",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123063421818036224/img/RTEcbgi0EGlNBpMl.jpg",
+    "duration": 70.2
+  },
+  {
+    "id": "2123745767286276410",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2123745767286276410",
+    "date": "2026-11-20",
+    "title": "AAA-looking game environment in the browser with a Three.js PBR pipeline",
+    "titleZh": "用 Three.js PBR 管线做出的 3A 质感浏览器场景",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "aaa-looking game environments in the browser with Opus 5.5 + Three.js..\n\nthe look comes from a rendering pipeline, not from image gen\n\ntuning it with math instead of gut feeling:\n\n- step 1: opus 5.5: build a pbr pipeline in three.js from papers, talks and unreal’s published techniques\n- step 2: three.js: fft ocean, physical atmosphere, global illumination, volumetric clouds\n- step 3: three.js: gtao, volumetric fog, auto exposure, local tone mapping\n- step 4: references: a dozen frames from real games or film stills, picked by hand for weather, time and composition\n- step 5: opus 5.5: pick 7–8 sample areas per reference: sunlit grass, shaded grass, sky near the sun, distant water\n- step 6: opus 5.5: measure brightness, chroma and hue in each area, then the same areas in your render\n- step 7: opus 5.5: least-squares fit across 100+ points to find the parameters with the lowest error\n- step 8: three.js: render, measure, adjust, repeat until the numbers match\n\ndon’t ask the ai for a “better-looking” scene. give it physics to render and numbers to hit",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123745647811510272/img/18al8zE0bz1h1EER.jpg",
+    "duration": 22
   }
 ]

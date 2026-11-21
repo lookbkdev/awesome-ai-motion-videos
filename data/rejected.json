@@ -713,5 +713,15 @@
     "id": "2102569255657259036",
     "handle": "edwinhayward",
     "reason": "plain one-shot test, low effort"
+  },
+  {
+    "id": "2123538258265075804",
+    "handle": "mattshumer_",
+    "reason": "Shibuya replica rendered on cloud GPUs; not clearly code-driven"
+  },
+  {
+    "id": "2123385691530813632",
+    "handle": "rewind02",
+    "reason": "4-second clip, too short"
   }
 ]
