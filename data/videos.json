@@ -4896,5 +4896,110 @@
     "text": "aaa-looking game environments in the browser with Opus 5.5 + Three.js..\n\nthe look comes from a rendering pipeline, not from image gen\n\ntuning it with math instead of gut feeling:\n\n- step 1: opus 5.5: build a pbr pipeline in three.js from papers, talks and unreal’s published techniques\n- step 2: three.js: fft ocean, physical atmosphere, global illumination, volumetric clouds\n- step 3: three.js: gtao, volumetric fog, auto exposure, local tone mapping\n- step 4: references: a dozen frames from real games or film stills, picked by hand for weather, time and composition\n- step 5: opus 5.5: pick 7–8 sample areas per reference: sunlit grass, shaded grass, sky near the sun, distant water\n- step 6: opus 5.5: measure brightness, chroma and hue in each area, then the same areas in your render\n- step 7: opus 5.5: least-squares fit across 100+ points to find the parameters with the lowest error\n- step 8: three.js: render, measure, adjust, repeat until the numbers match\n\ndon’t ask the ai for a “better-looking” scene. give it physics to render and numbers to hit",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123745647811510272/img/18al8zE0bz1h1EER.jpg",
     "duration": 22
+  },
+  {
+    "id": "2121982602122760352",
+    "handle": "AmirMushich",
+    "name": "AmirMušić",
+    "url": "https://x.com/AmirMushich/status/2121982602122760352",
+    "date": "2026-11-15",
+    "title": "Object showcase film built in Blender through Claude Code",
+    "titleZh": "用 Claude Code 驱动 Blender 做的物件展示短片",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Claude Opus 5.5 did (prompt)\n\nMy input + 9 revisions in Claude Code using Blender\nSound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to make it sound better\n\n Try this prompt with any [OBJECT] 👇",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121977622200471552/img/3xjD8lwPnfMitg45.jpg",
+    "duration": 9.6
+  },
+  {
+    "id": "2121896633848017145",
+    "handle": "MengTo",
+    "name": "Meng To",
+    "url": "https://x.com/MengTo/status/2121896633848017145",
+    "date": "2026-11-15",
+    "title": "Dark Souls-inspired browser game in three.js",
+    "titleZh": "three.js 做的类魂风浏览器游戏",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "I made a Dark Souls inspired game in 3 days with Three.js and Claude Fable 5.2.\n\nRuns in the browser with full lighting, effects and sound. No build step.\n\nStack: Fable 5.2 + Opus 5.5 in Claude Code, Seedream 5.0 Pro, Tripo 3D\n\nFull workflow and prompts below (1/10)",
+    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2121896455816548352/pu/img/64C320SXAJ7oPGQ8.jpg",
+    "duration": 99.1
+  },
+  {
+    "id": "2121938110762103246",
+    "handle": "hakimieiqbal",
+    "name": "Hakimi Eiqbal",
+    "url": "https://x.com/hakimieiqbal/status/2121938110762103246",
+    "date": "2026-11-15",
+    "title": "FableFlight: open-world flight simulator in Rust",
+    "titleZh": "FableFlight：Rust 写的开放世界飞行模拟器",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "Claude Fable 5.2 and Opus 5.5 built an open-world flight simulator in Rust in just ONE WEEK.\n\nNo Unity. No Unreal Engine. Just Rust and two AI models handling different parts of development.\n\nThe project is called FableFlight.\n\nThe workflow:\n\n> Fable 5.2 tackled complex rendering problems\n> Fable 5.2 helped model the aircraft\n> Opus 5.5 implemented most of the game systems\n> both models helped iterate on graphics and performance\n> everything was integrated into a standalone 3D application\n\nThe result is a playable flight simulator with an explorable 3D world and an aircraft you can fly around.\n\nAnd the interesting part is that it was built without relying on an existing game engine.\n\nThe developer focused heavily on rendering performance, graphics and getting all the systems working together.\n\nThe gameplay footage was recorded on an RTX 3060.\n\nOf course, this isn't Microsoft Flight Simulator.\n\nFlight physics, aircraft models, UI and optimization still need work.\n\nBut going from an idea to a standalone open-world flight simulator in a week is a pretty impressive example of AI-assisted development.\n\nAnd the entire project is open source.",
+    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2121938025961631744/pu/img/XHuBU5p_9KIX5bY2.jpg",
+    "duration": 74.4
+  },
+  {
+    "id": "2122803967272866254",
+    "handle": "EnvolDev",
+    "name": "Tony",
+    "url": "https://x.com/EnvolDev/status/2122803967272866254",
+    "date": "2026-11-17",
+    "title": "Alpine Gold aircraft scene across four models",
+    "titleZh": "高山金涂装飞机场景：四个模型同题对比",
+    "category": "comparison",
+    "models": [
+      "GPT-6.2 Astra",
+      "GPT-6.2 Sol",
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5 🛩️\n\nGPT-6.2 Astra is just f*cking insane. 🤯\nOpenAI is so f*cking back.\n\nOver 21x cheaper and almost 4x faster than Fable 5.2.\nAnd the detail on this plane is unreal. 😱\n\nSame Alpine Gold prompt:\nGPT-6.2 Astra: $9.62 · 46m 14s\nGPT-6.2 Sol: $2.07 · 30m 47s\nFable 5.2: $209.50 · 3h 02m 54s\nOpus 5.5: $31.85 · 2h 45m 42s\n\nAnd GPT-6.2 Sol did it for $2.07. Over 100x cheaper than Fable 5.2. 💀\n\nIs Anthropic in trouble? 👀",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122801610845982720/img/pjrDJrtzUujYGxyz.jpg",
+    "duration": 25
+  },
+  {
+    "id": "2121646685319221546",
+    "handle": "vib3coded",
+    "name": "Vib3Coded",
+    "url": "https://x.com/vib3coded/status/2121646685319221546",
+    "date": "2026-11-14",
+    "title": "Jelly orange slice, Fable 5.2 vs Opus 5.5",
+    "titleZh": "果冻橙片：Fable 5.2 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5"
+    ],
+    "text": "The more expensive model should do better. Right? 👀\n\nFable 5.2 vs Opus 5.5. Same prompt: make a jelly orange slice\n\nIf you hid the names and prices, which result would you pick?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121646347770015745/img/K08-DO_3Grg3VTTv.jpg",
+    "duration": 17
+  },
+  {
+    "id": "2122072152686121146",
+    "handle": "jony_palino",
+    "name": "Jony Palino",
+    "url": "https://x.com/jony_palino/status/2122072152686121146",
+    "date": "2026-11-15",
+    "title": "Same prompt across Gemini 4 Krypton, Fable 5.2, Opus 5.5 and DeepSeek V4.1 Flash",
+    "titleZh": "同一提示词四模型对比：Gemini 4 Krypton、Fable 5.2、Opus 5.5、DeepSeek V4.1 Flash",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Krypton",
+      "Fable 5.2",
+      "Opus 5.5",
+      "DeepSeek V4.1 Flash"
+    ],
+    "text": "Gemini 4 Krypton vs Claude Fable 5.2 vs Claude Opus 5.5  vs DeepSeek V4.1 Flash \n\nYou asked me to compare Google’s flagship with Claude, so here it is 👇\n\nSame prompt. Four models. One of them might surprise you 👀🔥",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122016843397296129/img/Vq-3ma3hifNUzhwJ.jpg",
+    "duration": 16.6
   }
 ]

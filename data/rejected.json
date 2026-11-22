@@ -723,5 +723,25 @@
     "id": "2123385691530813632",
     "handle": "rewind02",
     "reason": "4-second clip, too short"
+  },
+  {
+    "id": "2121916952134463637",
+    "handle": "aricccq",
+    "reason": "does not say the excavator was built in code"
+  },
+  {
+    "id": "2122415600802627683",
+    "handle": "maxxmalist",
+    "reason": "product ad, not stated as code-built"
+  },
+  {
+    "id": "2122312123183235554",
+    "handle": "plusxbt",
+    "reason": "tool list promo, not a piece"
+  },
+  {
+    "id": "2123003157613629556",
+    "handle": "_MaxBlade",
+    "reason": "opinion rant, no clear showcase"
   }
 ]
