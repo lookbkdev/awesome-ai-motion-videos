@@ -5001,5 +5001,137 @@
     "text": "Gemini 4 Krypton vs Claude Fable 5.2 vs Claude Opus 5.5  vs DeepSeek V4.1 Flash \n\nYou asked me to compare Google’s flagship with Claude, so here it is 👇\n\nSame prompt. Four models. One of them might surprise you 👀🔥",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122016843397296129/img/Vq-3ma3hifNUzhwJ.jpg",
     "duration": 16.6
+  },
+  {
+    "id": "2124431846859813234",
+    "handle": "MengTo",
+    "name": "Meng To",
+    "url": "https://x.com/MengTo/status/2124431846859813234",
+    "date": "2026-11-22",
+    "title": "Interactive liquid-glass desk scene in three.js",
+    "titleZh": "three.js 复刻的液态玻璃交互书桌",
+    "category": "3d",
+    "models": [
+      "GPT-6.2 Astra"
+    ],
+    "text": "GPT 6.2 Astra recreated this desk in three.js. Every desk object is interactive, down to the pen. Tap sunset on the Liquid Glass UI and the whole room warms up.\n\nSite: https://threeui.com/studio-glass\n\nI open-sourced 3 skills for the liquid glass, shaders and 3d room:\n\nGlass https://github.com/MengTo/Skills/tree/main/agent-skills/ui/refract-liquid-glass\nPress shaders https://github.com/MengTo/Skills/tree/main/agent-skills/ui/shade-glass-button-press\n3D room https://github.com/MengTo/Skills/tree/main/agent-skills/3d/light-a-threejs-workspace",
+    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124431786570833920/pu/img/btTr-CDDGn5cPagy.jpg",
+    "duration": 33.1
+  },
+  {
+    "id": "2123794210721804750",
+    "handle": "MengTo",
+    "name": "Meng To",
+    "url": "https://x.com/MengTo/status/2123794210721804750",
+    "date": "2026-11-20",
+    "title": "Scroll-driven woodland landing page with three.js scenes",
+    "titleZh": "three.js 场景驱动的林地滚动落地页",
+    "category": "interactive",
+    "models": [
+      "GPT-6.2 Astra"
+    ],
+    "text": "Astra 6.2 is pretty insane at three.js landing pages. Good references and about six hours of steering got the fog between the layout, 3d scenes and the animations.\n\nurl: https://threeui.com/sylva-woodland-landing-page\n\nThree skills I open-sourced:\n\nLayout https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/sylva-field-guide-layout\nShaders https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/scroll-mesh-survey\n3D https://github.com/MengTo/Skills/tree/main/agent-skills/3d/woodland-chapter-cameras",
+    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2123794120678494208/pu/img/ydN-YdHNwQmG1Pm_.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2124660142197424286",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2124660142197424286",
+    "date": "2026-11-23",
+    "title": "Naruto short in three.js, with music and voice all in code",
+    "titleZh": "three.js 全代码《火影忍者》短片（含音乐与人声）",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Neon"
+    ],
+    "text": "Naruto in @threejs by Gemini 4 Neon\n\nShowing all transformations and all emotions.\n\nEverything is code: music, visuals, and the voice at the end.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124658948670418944/img/w3AXYPVhg4ZgxOO2.jpg",
+    "duration": 156.4
+  },
+  {
+    "id": "2123720700670398680",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2123720700670398680",
+    "date": "2026-11-20",
+    "title": "Stickman War story in three.js between frontier models",
+    "titleZh": "three.js 火柴人大战：各家前沿模型对打",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Neon"
+    ],
+    "text": "Stickman War in @threejs using Gemini 4 Neon inside antigravity using swarm\n\n@demishassabis we were wrong , thanks for this great model \n\nI made a story and fight sequence between all SOTA models , pure code",
+    "thumb": "https://pbs.twimg.com/media/HXj4gtXaEAEZeqE.jpg",
+    "duration": 73.2
+  },
+  {
+    "id": "2124108900299382873",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2124108900299382873",
+    "date": "2026-11-21",
+    "title": "Hillside fairy-tale town in three.js with day-night slider",
+    "titleZh": "three.js 童话山城（含昼夜滑块）",
+    "category": "3d",
+    "models": [
+      "GPT-6.2"
+    ],
+    "text": "3d fairy-tale town in the browser with gpt-6.2 + three.js..\n\na hillside village with red tile roofs, a windmill\n\nthe trick is building one kit of parts in code, then placing it with rules. here's the workflow:\n\n- step 1: gpt-6.2: \"plan a hillside village: stream, bridges, winding paths, 10–12 houses\"\n- step 2: three.js: the hills and stream from noise, with a waterfall off the cliff\n- step 3: three.js: a house kit in code: walls, timber frames, tile roofs, dormers, shutters\n- step 4: three.js: the hero buildings from the kit: windmill, clock tower, water-wheel mill\n- step 5: three.js: trees and grass with InstancedMesh, ivy and flowers on the walls\n- step 6: three.js: soft sky, clouds, fog and chimney smoke for the painted look\n- step 7: three.js: a time slider: sun angle, sky color and fog, plus window glow at night\n- step 8: three.js: a cinematic mode with a slow camera path around the town\n\nmake one great house first\n\nevery other building is a variation of it, so its quality sets the ceiling for the whole town",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124108781046976512/img/tpBXpKY7pWeuR-mW.jpg",
+    "duration": 30.8
+  },
+  {
+    "id": "2124152598148087954",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2124152598148087954",
+    "date": "2026-11-21",
+    "title": "GTA-style San Francisco driving game in the browser",
+    "titleZh": "浏览器里的 GTA 风旧金山驾驶游戏",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "GTA 6 style city driving game in the browser with Opus 5.5 + Blender + Three.js..\n\nreal san francisco streets with a full hud\n\nhere's the workflow:\n\n- step 1: opus 5.5: \"plan an sf district: real street names, hills, intersections, mission spots\"\n- step 2: blender + mcp: opus builds a kit of victorian houses, shops and towers, 10–15 variants\n- step 3: blender: the cars, police units and buses as low-poly kits, exported as glb\n- step 4: three.js: opus lays the streets from the map and places the buildings along them\n- step 5: three.js: car physics with drift, speed and damage: wrecked, disabled, tires blown\n- step 6: three.js: traffic, pedestrians and buses on lanes and crosswalks\n- step 7: three.js: wanted stars and police ai that chase, box you in and ram\n- step 8: three.js: the hud: minimap, speedometer, cash, mission markers and getaway zones\n\nwho does what:\n\n> blender + opus 5.5: buildings, cars, the street kit\n> three.js + opus 5.5: city layout, physics, ai, hud\n> you: drive it, break it, list what feels off\n\nand the rule that saves the project... get the driving right before you add a single cop",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124152515063091200/img/bSqKRLrcQZI5gIGb.jpg",
+    "duration": 70.7
+  },
+  {
+    "id": "2124122272440951080",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2124122272440951080",
+    "date": "2026-11-21",
+    "title": "Three.js Jeep 4x4: four models, same prompt",
+    "titleZh": "three.js 越野吉普：四个模型同题对比",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Neon",
+      "GPT-6.2 Astra",
+      "Opus 5.5",
+      "GPT-6.1 Sol"
+    ],
+    "text": "HOW did 53-day-old GPT Sol 6.1 cook this Jeep better than today's frontier models?\n\n2 months ago it beat Astra 6 and Sonnet 5.5 on my \"Three.js Jeep 4x4\" vibe check\n\ntoday I ran the exact same prompt on 3 hyped models:\n\n- Gemini 4 Neon High: 45 minutes, 6% weekly quota \n- GPT Astra 6.2 High: 24 minutes, 5% weekly quota\n- Claude Opus 5.5 High: 50 minutes, 5% weekly quota\n- GPT Sol 6.1 High: 3% pf weekly quota, didn't track time\n\ngenuinely asking: which output looks better to you?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124121837013446656/img/iAC7d-fRiO6ea4c8.jpg",
+    "duration": 39.9
+  },
+  {
+    "id": "2124625485590327733",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2124625485590327733",
+    "date": "2026-11-22",
+    "title": "Blender MCP throne, blind test: Opus 5.5 vs Gemini 4 Neon",
+    "titleZh": "Blender MCP 王座盲测：Opus 5.5 对 Gemini 4 Neon",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "Gemini 4 Neon"
+    ],
+    "text": "I don't joke about Gemini anymore\n\nran a blind Blender MCP test on a tough 3D throne prompt (no assets, no image refs, no web search)\n\none is \"the GOAT\" Opus 5.5, the other is Gemini 4 Neon:\n\n- left output: 32 minutes, ate 5%\n- right output: 29 minutes, ate 4%\n\ncan you even tell which one is Opus anymore?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124624167647469568/img/4vtbZ7Lyfl2akGlw.jpg",
+    "duration": 19.3
   }
 ]
