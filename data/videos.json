@@ -5133,5 +5133,135 @@
     "text": "I don't joke about Gemini anymore\n\nran a blind Blender MCP test on a tough 3D throne prompt (no assets, no image refs, no web search)\n\none is \"the GOAT\" Opus 5.5, the other is Gemini 4 Neon:\n\n- left output: 32 minutes, ate 5%\n- right output: 29 minutes, ate 4%\n\ncan you even tell which one is Opus anymore?",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124624167647469568/img/4vtbZ7Lyfl2akGlw.jpg",
     "duration": 19.3
+  },
+  {
+    "id": "2124669366512001493",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2124669366512001493",
+    "date": "2026-11-23",
+    "title": "Browser strategy game: Sunrise vs Dusk, drawing an army with ink",
+    "titleZh": "浏览器策略游戏：日出对黄昏，用墨水画出军队",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "I asked Claude Fable 5.2 to make a strategy game, playable in your browser.\n\nPlay as either Sunrise or Dusk faction. Gather ink to draw an army and battle your opponents",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124667865123135488/img/vORDjHdKsL8Dvfyc.jpg",
+    "duration": 52.9
+  },
+  {
+    "id": "2123931925220094008",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2123931925220094008",
+    "date": "2026-11-21",
+    "title": "Rainbow Run: an animation drawn in code",
+    "titleZh": "彩虹奔跑：用代码画出的动画",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Rainbow run - animation drawn in code by Fable 5.2",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123931435912577024/img/qbMjg-m-iVyDsJNu.jpg",
+    "duration": 36
+  },
+  {
+    "id": "2124790912618545223",
+    "handle": "Linus_K_AI",
+    "name": "Linus Konetschnig",
+    "url": "https://x.com/Linus_K_AI/status/2124790912618545223",
+    "date": "2026-11-23",
+    "title": "Age of Vibe Coders: a browser RTS prototype in Three.js",
+    "titleZh": "Age of Vibe Coders：Three.js 浏览器即时战略原型",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "I’ve never built a game before. This is Age of Vibe Coders, my browser RTS prototype inspired by AoE II.\n\nThe dream: generate your own units and nations with AI, then battle your friends. No pay-to-win.\n\nBuilt with omp, Opus 5.5, @fal and @threejs",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124790653477384192/img/clILzsrbmFjsSz_8.jpg",
+    "duration": 53
+  },
+  {
+    "id": "2124489069488930906",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2124489069488930906",
+    "date": "2026-11-22",
+    "title": "Plane flying mechanic added to a Three.js game with no 3D assets",
+    "titleZh": "给 Three.js 游戏加上飞机玩法，零 3D 资产",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "I have Astra 6.2 and Gemini 4 Neon, and I still use Opus 5.5 95% of the time. WHY?\n\nit's smart + easy on my quota + actually talks like a human\n\nit added this whole plane mechanic to my three.js game in ~2h for just 4% of my Max plan\n\nplanning, physics, VFX, sound, bug fixing, HUD, all done by Opus 5.5 (zero 3D assets)\n\nonly issue: after Astra 6.2 it feels really slow",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124484384065519616/img/Bid-AzJisLX9hJ3y.jpg",
+    "duration": 53.8
+  },
+  {
+    "id": "2124835573646995461",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2124835573646995461",
+    "date": "2026-11-23",
+    "title": "Photoreal train station built procedurally in Blender",
+    "titleZh": "在 Blender 中程序化搭建的写实火车站",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "build a photoreal train station in blender + opus 5.5...\n\nwith almost no outside assets\n\nrulebook and a review loop. here's the workflow:\n\n- step 1: references: collect real platform photos for signs\n- step 2: claude code: write a claude.md rulebook: \"no outside 3d models, no texture photos, procedural nodes only\"\n- step 3: blender + mcp: a modeling sub-agent builds the platform\n- step 4: blender + mcp: the town behind it: terrain, streets\n- step 5: blender: procedural shaders for concrete, tiles, metal\n- step 6: chatgpt: sign text and dirt stencils, then tripo for a few hard pieces\n- step 7: claude code: a visual qa sub-agent renders the shot and lists what looks fake\n- step 8: you: one specific fix request per round: \"the pillar dirt is too even, add streaks at the base\"\n- step 9: hunyuanvideo-foley: the train sound, then opus edits the shot and a making-of\n\nand the rule that saves the project... ask for specific fixes, not \"make it more real.\"",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124835499248361472/img/0PM4C0HPgNmSNJv7.jpg",
+    "duration": 35.7
+  },
+  {
+    "id": "2124525186988839409",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2124525186988839409",
+    "date": "2026-11-22",
+    "title": "Earth-sized procedural planet in Unity 6",
+    "titleZh": "Unity 6 中的地球尺度程序化星球",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "build an earth-sized procedural planet with Opus 5.5 + Blender + Unity 6...\n\nnothing is hand-painted\n\nhere's the workflow:\n\n- step 1: unity 6: connect opus 5.5 via the unity plugin, start a urp project\n- step 2: opus 5.5: \"earth-sized cube-sphere, quadtree tiles of 32×32, built on the gpu\"\n- step 3: opus 5.5: \"25 octaves of 3d noise, from continents to 1m bumps\"\n- step 4: opus 5.5: \"camera stays at the origin, positions in doubles, feed travel into taa\"\n- step 5: opus 5.5: hand it the hillaire 2020 paper\n- step 6: opus 5.5: \"volumetric clouds from a weather map, half-res, accumulated over frames\"\n- step 7: opus 5.5: \"rain blows inland from the sea and places clouds, snow, forest and grass\"\n- step 8: blender + mcp: opus grows trees and rocks, bakes impostors, exports lods\n- step 9: opus 5.5: \"scatter trees and rocks deterministically, impostors from 100m, grass to 250m\"\n- step 10: opus 5.5 + image gen: \"ground textures, seam fixes, normal and roughness maps\"\n- step 11: unity 6: fly orbit to ground after every change, judge by eye\n\nand the rule that saves the project... give opus the paper, not just the idea",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124524981853777920/img/cJhpDXyZCeoFCLKb.jpg",
+    "duration": 200.1
+  },
+  {
+    "id": "2123135975308038590",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2123135975308038590",
+    "date": "2026-11-18",
+    "title": "Interactive sailing ship in Three.js, GPT 6.2 Astra vs Opus 5.5",
+    "titleZh": "Three.js 交互式帆船：GPT 6.2 Astra 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "GPT 6.2 Astra",
+      "Opus 5.5"
+    ],
+    "text": "GPT 6.2 Astra vs Opus 5.5 \n\ngave both models the same prompt to create an interactive sailing ship in Three.js and make it detailed as possible:\n\n- 6.2 Astra: 4hr 5mins, ~$6 via codex \n- Opus 5.5: 1hr 35 mins and api cost $16 in claude code. \n\nand both builds were one-shotted with no follow-up prompts or manual fixes.\n\nI’m actually torn on this one. I’ll let you all decided which did best.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123135680050085888/img/S3mvPHKrleOyN1CC.jpg",
+    "duration": 56
+  },
+  {
+    "id": "2123004538974294470",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2123004538974294470",
+    "date": "2026-11-18",
+    "title": "Tandem ride SVG animation, GPT 6.2 Sol vs Opus 5.5",
+    "titleZh": "双人自行车 SVG 动画：GPT 6.2 Sol 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "GPT 6.2 Sol",
+      "Opus 5.5"
+    ],
+    "text": "GPT 6.2 Sol vs Opus 5.5 (Tandem Ride SVG) \n\n• opus 5.5 in claude code: 11M+ tokens ~1 hr, ~$18 api cost\n• gpt 6.2 in codex cli: 6.7M+ tokens ~46 mins, ~$1.9  \n\nbeen using 6.2 Sol on max reasoning for hours and i’m still below 50% of my usage limit, it’s been really generous so far \n\nOpus did a good job here, but Sol is nearly 10x cheaper and a noticeable improvement over 6.1 Sol at SVGs and 3D.\n\nwhich model did it better?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123002351422181377/img/TN64IOGu6U_ntD2K.jpg",
+    "duration": 27.6
   }
 ]
