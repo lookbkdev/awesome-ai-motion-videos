@@ -5263,5 +5263,135 @@
     "text": "GPT 6.2 Sol vs Opus 5.5 (Tandem Ride SVG) \n\n• opus 5.5 in claude code: 11M+ tokens ~1 hr, ~$18 api cost\n• gpt 6.2 in codex cli: 6.7M+ tokens ~46 mins, ~$1.9  \n\nbeen using 6.2 Sol on max reasoning for hours and i’m still below 50% of my usage limit, it’s been really generous so far \n\nOpus did a good job here, but Sol is nearly 10x cheaper and a noticeable improvement over 6.1 Sol at SVGs and 3D.\n\nwhich model did it better?",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123002351422181377/img/TN64IOGu6U_ntD2K.jpg",
     "duration": 27.6
+  },
+  {
+    "id": "2125254550416175477",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2125254550416175477",
+    "date": "2026-11-24",
+    "title": "Opus 5.6 vs Opus 5.5: animated SVG short film from the same prompt",
+    "titleZh": "Opus 5.6 对比 Opus 5.5：同一提示词生成的 SVG 动画短片",
+    "category": "comparison",
+    "models": [
+      "Opus 5.6",
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.6 vs Opus 5.5 [animated SVG short film]\n\nboth models on the exact same prompt and everything you see was made with pure code, no video generation involved.\n\nthe gap is insane. look at how smoothly 5.6 handles the animation and looping. it’s already looking like the new SOTA in three.js and creative 3D coding.\n\n- and Fable 5.5 is also still rumored to be coming any moment \n\nwe’re so not ready for what Anthropic is cooking",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125254332035588096/img/4TLDVUoh4vKvKS63.jpg",
+    "duration": 58.1
+  },
+  {
+    "id": "2125226204764733481",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2125226204764733481",
+    "date": "2026-11-24",
+    "title": "Anime-style animation written in pure code",
+    "titleZh": "纯代码写出的动漫风格动画",
+    "category": "motion",
+    "models": [
+      "Opus 5.6"
+    ],
+    "text": "Opus 5.6 made this in pure code \n\nNow tell me is this not anime worthy or video gen worthy",
+    "thumb": "https://pbs.twimg.com/media/HX5R33qacAEzyHm.jpg",
+    "duration": 61.7
+  },
+  {
+    "id": "2125288449788019168",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2125288449788019168",
+    "date": "2026-11-24",
+    "title": "Tokyo: a one-minute animation drawn in code",
+    "titleZh": "东京：用代码画出的一分钟动画",
+    "category": "motion",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "Tokyo - animation drawn in code by Fable 5.2",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125288032920309760/img/nfHtPktkh4ukPwen.jpg",
+    "duration": 52
+  },
+  {
+    "id": "2125321244686029289",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+    "date": "2026-11-24",
+    "title": "Procedural open-world RPG in a single 300 kB HTML file",
+    "titleZh": "单个 300kB HTML 文件里的程序化开放世界 RPG",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "I asked Fable 5.2 to make a procedural, open-world RPG, playable in your browser\n\nIt fits in a single ~300kB HTML file. Every pixel is drawn by shaders\n\nhttps://kevintngo.github.io/procedural-rpg/",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125321148481347584/img/7RoLsAV1_0hJQFnu.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2124994547482829052",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2124994547482829052",
+    "date": "2026-11-23",
+    "title": "Playable three.js ATV with working physics",
+    "titleZh": "可玩的 three.js 全地形车，带真实物理",
+    "category": "interactive",
+    "models": [
+      "Gemini 4 Neon",
+      "Opus 5.5"
+    ],
+    "text": "How did this playable three.js ATV cost less than 1% of my Claude Max quota??\n\nsimple: I made Gemini 4 Neon do the dirty work first\n\n- Neon: cooked the model from an image + built the physics in 23 min + 7% quota\n- Opus 5.5: fixed 4 flaws and integrated it into my main project for less than 1%\n\nis there a more efficient combo right now?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124993988662841344/img/b6OZsKFTRgefPWTI.jpg",
+    "duration": 27.6
+  },
+  {
+    "id": "2125367528511648217",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2125367528511648217",
+    "date": "2026-11-24",
+    "title": "A 3D car built from scratch in Blender over 19 hours",
+    "titleZh": "在 Blender 里花 19 小时从零造出的 3D 汽车",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "I don't even know WHY I let Opus 5.5 work in Blender for 19 hours\n\n20 chats, hundreds of fixes, ~3,000 requests, and ~1.086 BILLION tokens just for one car from scratch\n\nthe funny part? I'm not even satisfied with the result\n\nmy skill issue, or did it hit the cap of what AI can do in 3D right now?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125366533673127936/img/XdJmg2cOXDce4fue.jpg",
+    "duration": 27.1
+  },
+  {
+    "id": "2124472262417916010",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2124472262417916010",
+    "date": "2026-11-22",
+    "title": "Blacklight laser tag horror short, Blender driven by Python",
+    "titleZh": "黑光激光枪战恐怖短片：Python 驱动 Blender 渲染",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "make a blacklight laser tag horror short in blender with Opus 5.5 + GPT image + Meshy...\n\na pov walk through a glowing uv arena\n\nthe trick is that no one touches blender by hand. claude drives it with python. here's the workflow:\n\n- step 1: claude opus 5.5: research real uv laser tag arenas and how to fake blacklight glow in blender\n- step 2: gpt image (codex cli): concept looks, mural, carpet and splatter textures, multi-view shots of every prop\n- step 3: meshy api: multi-view images in, textured 3d models out\n- step 4: claude opus 5.5: blender scripts for the arena layout and the glowing paint\n- step 5: claude opus 5.5: the pov walk: heel strikes, breathing, head turns\n- step 6: claude opus 5.5: the spiders, the cutaways and the blackout ending\n- step 7: python: cut and mix cc0 sounds: footsteps, breathing, metal tinks\n- step 8: runpod: cycles at 1080p, split across 7 rented gpus, then ffmpeg for the final cut\n\nwho does what:\n\n> claude opus 5.5: research, every blender script, the animation\n> sonnet + haiku: cheaper helper agents\n> gpt image: concepts, textures, prop views\n> meshy: the 3d props\n> runpod: the render\n\nmeshy gets every side of the prop, so the models come back clean enough to light",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124472151893778432/img/op9uWKjS8Gu-Xsde.jpg",
+    "duration": 51.9
+  },
+  {
+    "id": "2125195821150781628",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2125195821150781628",
+    "date": "2026-11-24",
+    "title": "Nightshoal: a 1920s fishing and exploration game zone in Godot",
+    "titleZh": "Nightshoal：用 Godot 做的 1920 年代钓鱼探索游戏区域",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "built a whole new game zone with Opus 5.5 + Godot...\n\nnightshoal: a 1920s fishing and exploration game\n\nthe trick is giving agents rules for when to stop and hand off. here's the workflow:\n\n- step 1: opus 5.5: build the zone from the written plan: land, jobs, events, boats\n- step 2: claude code: run several agents in parallel, as long as they never touch the same files\n- step 3: godot: screenshot 4 places in the game, by day and by night\n- step 4: openai image api: paint mockups over those exact screenshots, so nothing moves\n- step 5: gauntlet loop: a fresh critic compares game vs mockup blind each round. two wins = done.\n- step 6: blender: opus models each prop, and a critic checks it against a 4-view sheet\n- step 7: tripo: if a model fails 5 times, build it from the sheet in tripo instead\n- step 8: elevenlabs: sounds for every place at its own hours, plus murmurs for 17 people\n- step 9: godot: run the full test suite before anything lands\n\nwho does what:\n\n> opus 5.5 (claude code): zone 2, the landings, the islands, the blender models, the trailer\n> jev: picks the effort level for every task\n> openai image api: mockups, 4-view sheets, fish paintings, curio cards\n> tripo: the models opus couldn't get right\n> elevenlabs: the bay's sounds\n> the dev: the plan, the calls, the reviews\n\nset a failure limit. after 5 losses, a model goes to tripo instead of burning another day in the loop (dev: ProFactor)",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125195735830286337/img/bl5ohvvBp6ZZTFIn.jpg",
+    "duration": 97.4
   }
 ]
