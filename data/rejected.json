@@ -763,5 +763,20 @@
     "id": "2124228320628035652",
     "handle": "apekshik",
     "reason": "no model named, tool promo with long art-direction writeup"
+  },
+  {
+    "id": "2125408141584277995",
+    "handle": "xikhar",
+    "reason": "no AI model named; gaussian splat shader demo"
+  },
+  {
+    "id": "2125711197039182120",
+    "handle": "rewind02",
+    "reason": "final film is AI video generation (MAGI-2), Blender only previs"
+  },
+  {
+    "id": "2125633124004667412",
+    "handle": "socialwithaayan",
+    "reason": "Seedance AI video generation"
   }
 ]

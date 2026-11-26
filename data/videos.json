@@ -5393,5 +5393,134 @@
     "text": "built a whole new game zone with Opus 5.5 + Godot...\n\nnightshoal: a 1920s fishing and exploration game\n\nthe trick is giving agents rules for when to stop and hand off. here's the workflow:\n\n- step 1: opus 5.5: build the zone from the written plan: land, jobs, events, boats\n- step 2: claude code: run several agents in parallel, as long as they never touch the same files\n- step 3: godot: screenshot 4 places in the game, by day and by night\n- step 4: openai image api: paint mockups over those exact screenshots, so nothing moves\n- step 5: gauntlet loop: a fresh critic compares game vs mockup blind each round. two wins = done.\n- step 6: blender: opus models each prop, and a critic checks it against a 4-view sheet\n- step 7: tripo: if a model fails 5 times, build it from the sheet in tripo instead\n- step 8: elevenlabs: sounds for every place at its own hours, plus murmurs for 17 people\n- step 9: godot: run the full test suite before anything lands\n\nwho does what:\n\n> opus 5.5 (claude code): zone 2, the landings, the islands, the blender models, the trailer\n> jev: picks the effort level for every task\n> openai image api: mockups, 4-view sheets, fish paintings, curio cards\n> tripo: the models opus couldn't get right\n> elevenlabs: the bay's sounds\n> the dev: the plan, the calls, the reviews\n\nset a failure limit. after 5 losses, a model goes to tripo instead of burning another day in the loop (dev: ProFactor)",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125195735830286337/img/bl5ohvvBp6ZZTFIn.jpg",
     "duration": 97.4
+  },
+  {
+    "id": "2124530856442331264",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2124530856442331264",
+    "date": "2026-11-22",
+    "title": "The Matrix Sentinel built entirely in code with Claude",
+    "titleZh": "Claude 纯代码搭建《黑客帝国》哨兵",
+    "category": "3d",
+    "models": [
+      "Claude"
+    ],
+    "text": "I asked Claude to build the Sentinel from The Matrix using only code\n\nAnyMachine turns reference art into a Python script that builds the machine. AnyScene builds the world around it\n\nBoth methods by @apekshik\nNarration: ElevenLabs v4 on @fal",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124530013928353792/img/WyRKxPq6Z1XtCDkq.jpg",
+    "duration": 32
+  },
+  {
+    "id": "2125119969109418333",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+    "date": "2026-11-24",
+    "title": "Cinderwatch: single-HTML tower defense game",
+    "titleZh": "Cinderwatch：单个 HTML 文件的塔防游戏",
+    "category": "interactive",
+    "models": [
+      "Fable 5.2"
+    ],
+    "text": "I asked Fable 5.2 to make a tower defense game in a single HTML. Open source, playable in your browser\n\nhttps://kevintngo.github.io/cinderwatch/",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125117779334615040/img/Oy6LTaMnXdVM7Q4T.jpg",
+    "duration": 20
+  },
+  {
+    "id": "2123805807053557897",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2123805807053557897",
+    "date": "2026-11-20",
+    "title": "Mario Kart-style multiplayer racing game with no external assets",
+    "titleZh": "无外部素材的马里奥赛车风格多人赛车游戏",
+    "category": "interactive",
+    "models": [
+      "Gemini 4 Neon"
+    ],
+    "text": "gemini 4 neon is a very efficient coding model.\n\nasked neon to build a mario kart style racing game with online multiplayer and no external assets (sound on) \n\n- took about 25 mins on xhigh \n- used 5.5M tokens worth ~$6 only \n- 10.6k lines of code\n\nbeen having a lot of fun with Neon. i’ve also noticed it’s great at adding new features to existing builds without breaking things that already work.\n\nwhat would you rate this one out of 10?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123805575351865344/img/Axk0b8GYNAdt_Rn5.jpg",
+    "duration": 53.3
+  },
+  {
+    "id": "2125253343480275008",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2125253343480275008",
+    "date": "2026-11-24",
+    "title": "three.js scene with zero external assets",
+    "titleZh": "零外部素材的 three.js 场景",
+    "category": "3d",
+    "models": [
+      "Opus 5.6"
+    ],
+    "text": "Opus 5.6 is peak @threejs, no assets.\n\nCan you feel the AGI, son?",
+    "thumb": "https://pbs.twimg.com/media/HX5qW2IaMAAtDJk.jpg",
+    "duration": 81.6
+  },
+  {
+    "id": "2125331978891461023",
+    "handle": "chetaslua",
+    "name": "Chetaslua",
+    "url": "https://x.com/chetaslua/status/2125331978891461023",
+    "date": "2026-11-24",
+    "title": "Anime short with music, song and visuals all in code",
+    "titleZh": "音乐、歌声与画面全由代码生成的动漫短片",
+    "category": "motion",
+    "models": [
+      "Opus 5.6"
+    ],
+    "text": "Anime by Opus 5.6. Pure code, no external assets used.\n\nMusic, song, visuals: everything is code.\n\nNow tell me this isn't an absolute masterpiece.",
+    "thumb": "https://pbs.twimg.com/media/HX6yAgjbMAANFQv.jpg",
+    "duration": 114
+  },
+  {
+    "id": "2125243173651771643",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2125243173651771643",
+    "date": "2026-11-24",
+    "title": "Playable Mont-Saint-Michel-style hill town in Unreal Engine 5",
+    "titleZh": "虚幻引擎 5 中可游玩的圣米歇尔山风格山城",
+    "category": "3d",
+    "models": [
+      "GPT-6 Astra"
+    ],
+    "text": "build a playable hill town in Unreal Engine 5 with GPT-6 Astra + Blender..\n\na mont-saint-michel-style island town\n\nyou have astra build pcg tools, then edit a 2d map. here's the workflow:\n\n- step 1: openstreetmap: export the real island's roads and paths as the starting layout\n- step 2: gpt-6 astra: \"turn these osm paths into splines and shape mesh terrain under them\"\n- step 3: gpt-6 astra: write 5 pcg tools for roads, platforms, stairs, buildings and walls\n- step 4: unreal 5: stairs link two surfaces and regenerate when you move one. walls leave openings at routes.\n- step 5: blender: model a small kit of facade, roof and wall modules, then export to unreal\n- step 6: gpt-6 astra: \"turn this town into rules\", then draw a vector map of a new one\n- step 7: unreal 5: the map's paths become editable splines, and the tools raise the town\n- step 8: unreal 5: walk it at player scale. move a walkway, raise a terrace, regenerate only that piece.\n- step 9: unreal 5: detail pass with facade grammar, dormers, chimneys, shutters, vegetation, masonry\n\nmoving a line on a map is faster than another prompt, another blender trip and another wait",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125243034715516928/img/wS3lqiEVhRUkRAE1.jpg",
+    "duration": 39.4
+  },
+  {
+    "id": "2125558708339884408",
+    "handle": "rewind02",
+    "name": "rewind",
+    "url": "https://x.com/rewind02/status/2125558708339884408",
+    "date": "2026-11-25",
+    "title": "2.5D turn-based RPG in Godot and Blender",
+    "titleZh": "Godot + Blender 制作的 2.5D 回合制 RPG",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "build a 2.5d turn-based rpg with Opus 5.5 + Godot + Blender...\n\npixel-sprite heroes in hd 3d worlds\n\nhere's the workflow:\n\n- step 1: sonnet 5.5: research real ships, cathedrals and classic jrpg battle layouts as references\n- step 2: codex: concept images for each environment and model, used as references\n- step 3: blender: model the skyship, its decks and the sea of clouds around it\n- step 4: opus 5.5: build reusable scene\n- step 5: godot: opus builds each new environment from those workflows, not from scratch\n- step 6: godot: opus adds the turn-based combat: party, monsters, skills...\n- step 7: godot: opus places 2d sprites in the 3d scenes, with lighting that matches both\n- step 8: opus 5.5: record gameplay, have opus review the footage and list what looks or plays wrong\n\nturn every new environment into a reusable workflow",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125558616509878272/img/w6h6x8bjnZby2LgE.jpg",
+    "duration": 105
+  },
+  {
+    "id": "2125548561890771349",
+    "handle": "noclipepe",
+    "name": "noclipepe",
+    "url": "https://x.com/noclipepe/status/2125548561890771349",
+    "date": "2026-11-25",
+    "title": "Opus 5.6 vs Opus 5.5: red-hot ball vs 8 objects in three.js",
+    "titleZh": "Opus 5.6 对比 Opus 5.5：three.js 红热球与 8 种物体",
+    "category": "comparison",
+    "models": [
+      "Opus 5.6",
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.6 vs Opus 5.5: red hot ball vs 8 objects\n\nSame prompt. Pure three.js code, no assets\n\nOpus 5.6: 59 min, routing\nOpus 5.5: 1h 13 min, $13.93\n\n5.6 isn't officially out yet,  5.5 already feels like last year\n\nLook at the watermelon 💀",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125548132440190976/img/S6WpwDf8dKdzyvZr.jpg",
+    "duration": 70.9
   }
 ]
