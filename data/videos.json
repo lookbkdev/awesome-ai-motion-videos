@@ -5653,5 +5653,142 @@
     "text": "SWE 2.1 Flash is surprisingly good at 3D.\n\ntested it inside Devin against Gemini 4 Neon on the same voxel dragon and pagoda prompt with zero external assets.\n\n- Neon : 11 mins, ~$1.6\n- SWE 2.1: 18 mins, free  \n\ni prefer Neon’s pagoda and night lighting, but swe 2.1 did a really good. pretty impressive for a free model.\n\nwhat are your thoughts on SWE 2.1?",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125697411133616128/img/Y17VBuymWpHNZzsa.jpg",
     "duration": 48.1
+  },
+  {
+    "id": "2109042101019156848",
+    "handle": "majidmanzarpour",
+    "name": "Majid Manzarpour",
+    "url": "https://x.com/majidmanzarpour/status/2109042101019156848",
+    "date": "2026-10-10",
+    "title": "Tesla Roadster built entirely in code, rendered in three.js",
+    "titleZh": "纯代码搭建的 Tesla Roadster（three.js 渲染）",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.5 built this Tesla Roadster entirely in code, from reference images. Rendered in @threejs",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109041860924567552/img/_cpLTXKRG7wPJfkw.jpg",
+    "duration": 60.5
+  },
+  {
+    "id": "2110400242180858314",
+    "handle": "coinbureau",
+    "name": "Coin Bureau",
+    "url": "https://x.com/coinbureau/status/2110400242180858314",
+    "date": "2026-10-14",
+    "title": "Electric motor explainer: Opus 5.5 vs Gemini 4 Argon, same prompt",
+    "titleZh": "电机原理 3D 动画：Opus 5.5 对比 Gemini 4 Argon（同一提示词）",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "Gemini 4 Argon"
+    ],
+    "text": "🚨WILD: Opus 5.5 vs Gemini 4 Argon on the same prompt and task to build a cinematic 3D animation explaining how a Tesla-style electric motor works.  \n\nGemini Argon crushes the detailing as well as gets the job done for less than 1/4th the price of Claude opus. \n\nHas Google finally made frontier AI cheap? \n\nCredits: @rubenssoto_ai",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110264660721328128/img/oFT22_e1I_kE8seO.jpg",
+    "duration": 40
+  },
+  {
+    "id": "2110078889859203253",
+    "handle": "analogalok",
+    "name": "Alok",
+    "url": "https://x.com/analogalok/status/2110078889859203253",
+    "date": "2026-10-13",
+    "title": "One-shot solar system tour with orbiting camera",
+    "titleZh": "一次生成的太阳系环绕漫游动画",
+    "category": "3d",
+    "models": [
+      "Gemini 4 Argon"
+    ],
+    "text": "Gemini 4 Argon! One shot Solar system.\n\nPrompt: create an ultra realistic high quality, real video like animation of the solar system where the camera revolves around and gives a tour. Single html file\n\n28.5k output tokens including High reasoning. \n$0.28 cost",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110078370218487808/img/9fXW9SjlGwUXc_7Z.jpg",
+    "duration": 35.2,
+    "prompt": "create an ultra realistic high quality, real video like animation of the solar system where the camera revolves around and gives a tour. Single html file",
+    "promptUrl": "https://x.com/analogalok/status/2110078889859203253"
+  },
+  {
+    "id": "2107877177303699584",
+    "handle": "luckeyfaraday",
+    "name": "Luckey Faraday",
+    "url": "https://x.com/luckeyfaraday/status/2107877177303699584",
+    "date": "2026-10-07",
+    "title": "Recreate Sonic in Three.js: four models, one prompt",
+    "titleZh": "用 Three.js 重建 Sonic：四个模型同一提示词对比",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra",
+      "Sonnet 5.5",
+      "GPT-6.1 Sol"
+    ],
+    "text": "Opus 5.5 vs. GPT-6 Astra vs. Sonnet 5.5 vs. GPT-6.1 Sol.\n\nI gave all four the same one-line prompt: recreate Sonic in Three.js.\n\nNo reference image. No follow-ups. Just one prompt.\n\nWho wins?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107877128494555136/img/9QBFToHVmJSIzZfN.jpg",
+    "duration": 24
+  },
+  {
+    "id": "2120531902826525019",
+    "handle": "Stefan_3D_AI",
+    "name": "Stefan 3D AI",
+    "url": "https://x.com/Stefan_3D_AI/status/2120531902826525019",
+    "date": "2026-11-11",
+    "title": "10 Blender and Three.js 3D tests across four models",
+    "titleZh": "Blender 与 Three.js 的 10 项 3D 测试：四个模型对比",
+    "category": "comparison",
+    "models": [
+      "Fable 5.2",
+      "Opus 5.5",
+      "GPT-6 Astra",
+      "Gemini 4 Argon"
+    ],
+    "text": "NEW Claude Fable 5.2 vs Opus 5.5, GPT-6 Astra and Gemini 4 Argon.\n10 different 3D tests in Blender and Three.js.\nEvery model got the same prompts and files for a direct comparison. I also tracked generation time and estimated API costs to see how quality, speed and cost compare across different 3D tasks.\nWhich one offers the best balance of quality, speed, and cost?\nhttps://youtu.be/HaFfexk1h84\n\n#AI #Blender #3D #Claude #GameDev",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120529835365998593/img/A9gcAymPnoY2cyBV.jpg",
+    "duration": 41
+  },
+  {
+    "id": "2105832839023415521",
+    "handle": "vib3coded",
+    "name": "Vib3Coded",
+    "url": "https://x.com/vib3coded/status/2105832839023415521",
+    "date": "2026-10-02",
+    "title": "Jelly dice that squish and wobble back, soft-body physics in the browser",
+    "titleZh": "浏览器里的果冻骰子：撞击挤压后回弹的软体物理",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "16.49$ for jelly dice. But the interesting part is how they move 🎲\n\nClaude Opus 5.5 built an interactive 3D scene: the dice spin through the air, squish when they hit the plate, and wobble back into shape\n\nThe entire scene runs right in the browser. Each die contains a lattice of 125 physics nodes that handles stretching, compression, and shape recovery. Light refraction and glossy highlights give the material its jelly look\n\nYou can change the color, number of dice, and softness. Everything is packed into a single HTML file\n\nWhat do you think of the result for 16.49$? 👀",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105832143670652928/img/VLEIqo1-H-m5imJz.jpg",
+    "duration": 16
+  },
+  {
+    "id": "2104548658171834749",
+    "handle": "chirovisuals",
+    "name": "Chiro Visuals",
+    "url": "https://x.com/chirovisuals/status/2104548658171834749",
+    "date": "2026-09-28",
+    "title": "Blender geometry-node buildings ported live to three.js with a procedural city",
+    "titleZh": "把 Blender 几何节点建筑实时移植到 three.js，配程序化城市",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "I used Opus 5.5 to build & port 3 procedural buildings from Blender geometry nodes to the web.\n\nThe node graphs run live in three.js, a procedural city wraps around them, with light & camera presets.\n\nLive demo, source-code & .blend files included:\nhttps://proceduralbuildings.chirostudio.xyz/",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104546444778586112/img/w7QS5ygp59Ut7ute.jpg",
+    "duration": 75
+  },
+  {
+    "id": "2113218159603859914",
+    "handle": "LuminaBench",
+    "name": "Lumina",
+    "url": "https://x.com/LuminaBench/status/2113218159603859914",
+    "date": "2026-10-22",
+    "title": "Interactive 3D train with exploded view and wireframe",
+    "titleZh": "可交互 3D 火车：爆炸视图与线框模式",
+    "category": "interactive",
+    "models": [
+      "Kimi K3.1"
+    ],
+    "text": "Oh my GOD Kimi K3.1 is Broken\n\nOne shot fully working 3D Train with speed slider, assembly / exploded views, wireframe and stat tracking\n\nWtf is going on with these Chinese models, this feels design wise similar to a GPT model but just has that something extra like Anthropic models on top",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113217183153082368/img/hjbXXBupOmQg3fZb.jpg",
+    "duration": 59.1
   }
 ]
